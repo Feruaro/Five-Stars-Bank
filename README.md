@@ -61,3 +61,37 @@
 * GET - `/clientes`
 
 ![listar](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/listar_cliente1.jpg)
+
+* DELETE - `/clientes/{id}`
+
+![deletar](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/deletar.jpg)
+
+* POST - `/enderecos/{id}`
+
+![adicionar end](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/adicionar_endereco.jpg)
+
+* POST - `/contatos/{id}`
+
+![adicionar contato](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/adicionar_contato.jpg)
+
+* POST - `/contas/{id}`
+
+![cadastro conta](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Cadastro_conta.jpg)
+
+* POST - `/movimentacoes/{id}`
+
+![incluir](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/transacao1.jpg)
+
+![email incluir 1](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/email_transacao1.jpg)
+
+![email incluir 2](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/email_transacao2.jpg)
+
+* GET - `/movimentacoes/{id}`
+
+![lista movi 1](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/lista_movimentacao.jpg)
+
+![lista movi 2](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/lista_movimentacao2.jpg)
+
+* GET - `/contas/{id}/{periodo}`
+
+![extrato](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/extrato.jpg)
