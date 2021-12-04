@@ -131,8 +131,8 @@
 
 ---------------
 
-<img height="150em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/squad/fernanda.jpg"/>
+<img align="left" height="100em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/squad/fernanda.jpg"/>
 
-<img height="150em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/squad/itaici.png"/>
+<img align="left" height="120em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/squad/itaici.png"/>
 
-<img height="150em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/squad/Rodrigo.jpg"/>
+<img align="left" height="150em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/squad/Rodrigo.jpg"/>
