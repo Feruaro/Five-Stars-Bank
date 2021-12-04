@@ -40,3 +40,4 @@
 * post - `/clientes`
 
 
+![cadastro cliente](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/cadastro_cliente.jpg)
