@@ -1,3 +1,5 @@
+<img align="right" height="220em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Logotipo%20Brilho%20Minimalista%20Chic%20.png"/>
+
 ## Bem-vindos ao Five Stars Bank :moneybag:
 
 * Uma breve descrição sobre o projeto
