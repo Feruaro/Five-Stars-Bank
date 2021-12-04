@@ -133,4 +133,4 @@
 
 <img align="left" height="130em" width="150em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/squad/itaici.png"/>
 
-<img align="left" height="150em" width="150em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/squad/Rodrigo.jpg"/>
+<img align="left" height="130em" width="150em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/squad/Rodrigo.jpg"/>
