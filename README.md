@@ -2,6 +2,8 @@
 
 * Uma breve descrição sobre o projeto
 
+* [Requisitos](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/requisitos_projeto.md)
+
   ​
 
 ### MER:
@@ -36,4 +38,5 @@
 -----
 
 * post - `/clientes`
+
 
