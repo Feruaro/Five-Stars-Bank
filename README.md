@@ -44,6 +44,8 @@
 
 * [Lista de endpoints](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/lista_%20endpoints.md)
 
+* [Lista de JSON]()
+
 * [Vídeo do projeto]()
 
   ​
@@ -73,9 +75,11 @@
 
 ![atualizar](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/atualizar%20_cliente.jpg)
 
-* GET - `/clientes`
+* GET - `/clientes?size=1&page=1`
 
 ![listar](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/listar_cliente1.jpg)
+
+![listar](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/listar_cliente2.jpg)
 
 * DELETE - `/clientes/{id}`
 
@@ -101,11 +105,9 @@
 
 ![email incluir 2](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/email_transacao2.jpg)
 
-* GET - `/movimentacoes/{id}`
+* GET - `/movimentacoes/{id}?size=3&page=0`
 
 ![lista movi 1](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/lista_movimentacao.jpg)
-
-![lista movi 2](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/lista_movimentacao2.jpg)
 
 * GET - `/contas/{id}/{periodo}`
 
