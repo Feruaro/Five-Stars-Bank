@@ -127,20 +127,10 @@
 
   ​
 
-### Squad :
-
 ---------------
 
-<img align="left" height="120em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/squad/fernanda.jpg"/>
+<img align="left" height="130em" widht="90em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/squad/fernanda.jpg"/>
 
-<img align="left" height="150em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/squad/itaici.png"/>
+<img align="left" height="130em" widht="90em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/squad/itaici.png"/>
 
-<img align="left" height="150em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/squad/Rodrigo.jpg"/>
-
-Fernanda Ayres Ruaro
-
-​    [linkedin](https://www.linkedin.com/in/fernanda-ruaro/) |  [GitHub](https://github.com/Feruaro)
-
-Itaici Plessmann de Carvalho
-
-​        [linkedin](https://www.linkedin.com/in/itaici-plessmann-de-carvalho-45413b42/) |  [GitHub](https://github.com/itaici)
+<img align="left" height="150em" widht="90em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/squad/Rodrigo.jpg"/>
