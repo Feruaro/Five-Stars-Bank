@@ -3,8 +3,8 @@ package br.com.fivestarsbank.BlueBank.models.enums;
 public enum DebitoCredito {
 
 	NA(0, ""),
-	DEBITO(1, "Débito"), 
-	CREDITO(2, "Crédito");
+	DEBITO(1, "débito"), 
+	CREDITO(2, "crédito");
 
 	private Integer cod;
 	private String descrição;

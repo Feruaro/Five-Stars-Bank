@@ -29,6 +29,8 @@ public class ClienteService {
 	private EnderecoService end_service;
 	@Autowired
 	private ContatoService cont_service;
+	@Autowired
+	private SNSEmailService sns_service;
 
 	public Cliente buscar(Long id) {
 		Optional<Cliente> cliente = repo.findById(id);
@@ -71,7 +73,15 @@ public class ClienteService {
 
 		cliente.setId(null);
 		salvar(cliente);
-
+		
+		//Criando topic e salvando no banco de dados | name = id do cliente;
+		String arn = sns_service.criarTopico(cliente.getId());
+		cliente.setTopico(arn);
+		//Adicionando assinatura com protocolo "email" e o email cadastrado do cliente, no topic criado;
+		sns_service.adicionarAssinaturaTopico(cliente, arn);
+		
+		salvar(cliente);
+		
 		end_service.salvar(cliente.getEnderecos());
 		cont_service.salvarLista(cliente.getContatos());
 
@@ -114,7 +124,7 @@ public class ClienteService {
 	}
 
 	public String mensagemEmail() {
-		return "Seja bem-vindo(a) ao Banco Blue Bank! \n\nCliente cadastrado com sucesso!";
+		return "Seja bem-vindo(a) ao Five Stars Bank! \n\nCliente cadastrado com sucesso!";
 	}
 
 }

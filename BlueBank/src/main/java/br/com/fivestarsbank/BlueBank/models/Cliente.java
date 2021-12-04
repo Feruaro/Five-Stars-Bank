@@ -63,6 +63,8 @@ public class Cliente implements Serializable {
 	@JsonFormat(pattern = "dd/MM/yyyy")
 	private LocalDate data_nascimento;
 
+	private String topico;
+
 	@OneToMany(mappedBy = "cliente", cascade = CascadeType.ALL)
 	private List<Endereco> enderecos = new ArrayList<>();
 
@@ -156,6 +158,14 @@ public class Cliente implements Serializable {
 
 	public void setData_nascimento(LocalDate data_nascimento) {
 		this.data_nascimento = data_nascimento;
+	}
+
+	public String getTopico() {
+		return topico;
+	}
+
+	public void setTopico(String topico) {
+		this.topico = topico;
 	}
 
 	public List<Endereco> getEnderecos() {

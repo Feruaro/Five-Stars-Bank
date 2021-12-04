@@ -23,6 +23,8 @@ public class MovimentacaoService {
 	private MovimentacaoRepository repo;
 	@Autowired
 	private ContaService conta_service;
+	@Autowired
+	private SNSEmailService sns_service;
 
 	public Movimentacao buscar(Long id) {
 		Optional<Movimentacao> movi = repo.findById(id);
@@ -41,16 +43,15 @@ public class MovimentacaoService {
 	public Movimentacao incluir(MovimentacaoDTO movi, Long id) {
 		Conta conta = conta_service.buscar(id);
 		Movimentacao mov = converterDTO(movi);
-		
-		// Utilizar essa linha se quiser testar movimentações com outros datas (simular
-		// extratos):
-		// LocalDate data = (movi.getData_transacao() == null) ? LocalDate.now() :
-		// movi.getData_transacao();
 
 		if (contaAtiva(conta)) {
 			mov.setData_transacao(LocalDate.now());
 			mov.setConta(conta);
 
+			//enviar e-mail com os dados da transação para o cliente
+			String arn = conta.getCliente().getTopico();
+			sns_service.enviarEmail(arn, gerarMensagemEmail(mov), gerarAssuntoEmail(mov));
+			
 			conta.getTransacoes().add(mov);
 		} else {
 			throw new ContaInativaException(id);
@@ -64,7 +65,7 @@ public class MovimentacaoService {
 	}
 
 	public String gerarAssuntoEmail(Movimentacao movi) {
-		return "Houve um " + movi.getCredito_debito().getDescrição() + " na conta " + movi.getConta().getNumero_conta()
+		return "Houve um " + movi.getCredito_debito().getDescrição() + " na sua conta " + movi.getConta().getNumero_conta()
 				+ "-" + movi.getConta().getDigito_conta();
 	}
 

@@ -16,8 +16,9 @@ public class SNSEmailService {
 	@Autowired
 	private AmazonSNSClient snsClient;
 
-	public String criarTopico() {
-		CreateTopicRequest request = new CreateTopicRequest("fivestarsbank-email");
+	public String criarTopico(Long id) {
+		String idCliente = Long.toString(id);
+		CreateTopicRequest request = new CreateTopicRequest(idCliente);
 		return snsClient.createTopic(request).getTopicArn();
 	}
 

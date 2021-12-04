@@ -26,13 +26,11 @@ import br.com.fivestarsbank.BlueBank.service.SNSEmailService;
 @RestController
 @RequestMapping(path = "/clientes")
 public class ClienteController {
-
+ 
 	@Autowired
 	private ClienteService service;
 	@Autowired
 	private SNSEmailService sns_service;
-	
-	private String topic_arn = "";
 
 	@GetMapping(path = "/{id}")
 	public ResponseEntity<Cliente> buscar(@PathVariable Long id) {
@@ -51,21 +49,18 @@ public class ClienteController {
 		Cliente cli = service.cadastrar(cliente);
 		URI uri = ServletUriComponentsBuilder.fromCurrentRequest().path("/{id}").buildAndExpand(cli.getId()).toUri();
 
-		topic_arn = sns_service.criarTopico();
-		sns_service.adicionarAssinaturaTopico(cli, topic_arn);
-		sns_service.enviarEmail(topic_arn, service.mensagemEmail(), "Banco Blue Bank");
-
 		String body = "Cadastro realizado com sucesso! \nConfirmação pendente, verifique seu e-mail: "
 				+ cli.getContatos().get(0).getEmail();
 		return ResponseEntity.created(uri).body(body);
 	}
 
-//	@GetMapping(path = "/enviarEmail")
-//	public ResponseEntity<String> enviarEmail() {
-//		sns_service.enviarEmail(topic_arn, service.mensagemEmail(), "Banco Blue Bank");
-//		String body = "E-mail enviado com sucesso!";
-//		return ResponseEntity.ok().body(body);
-//	}
+	@GetMapping(path = "/snsEmail/{id}")
+	public ResponseEntity<String> enviarEmail(@PathVariable Long id) {
+		Cliente cli = service.buscar(id);
+		sns_service.enviarEmail(cli.getTopico(), service.mensagemEmail(), "Five Stars Bank");
+		String body = "E-mail enviado com sucesso!";
+		return ResponseEntity.ok().body(body);
+	}
 
 	@PutMapping(path = "/{id}")
 	public ResponseEntity<Void> atualizar(@PathVariable Long id, @Valid @RequestBody ClienteDTO2 cliente) {
