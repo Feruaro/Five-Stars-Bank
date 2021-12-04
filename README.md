@@ -10,19 +10,19 @@
 
 --------
 
-![MER](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/mer_final.pdf)
+![MER](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/mer_final.jpg)
 
 ### DER:
 
 ----
 
-![DER](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/der_final.pdf)
+![DER](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/der_final.jpg)
 
 ### Diagrama de Classes:
 
 -------
 
-![dc](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/digrama_classes_final.pdf)
+![dc](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/digrama_classes_final.jpg)
 
 ### Projeto:
 
