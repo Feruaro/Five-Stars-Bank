@@ -1,11 +1,12 @@
 package br.com.fivestarsbank.BlueBank.controllers;
 
 import java.net.URI;
-import java.util.List;
 
 import javax.validation.Valid;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -37,10 +38,10 @@ public class ClienteController {
 		Cliente cliente = service.buscar(id);
 		return ResponseEntity.ok().body(cliente);
 	}
-
+	
 	@GetMapping
-	public ResponseEntity<List<Cliente>> listar() {
-		List<Cliente> listaCliente = service.listar();
+	public ResponseEntity<Page<Cliente>> listar(Pageable pageable) {
+		Page<Cliente> listaCliente = service.listarPage(pageable);
 		return ResponseEntity.ok().body(listaCliente);
 	}
 
@@ -54,7 +55,7 @@ public class ClienteController {
 		return ResponseEntity.created(uri).body(body);
 	}
 
-	@GetMapping(path = "/snsEmail/{id}")
+	@GetMapping(path = "/snsEmail/{id}") 
 	public ResponseEntity<String> enviarEmail(@PathVariable Long id) {
 		Cliente cli = service.buscar(id);
 		sns_service.enviarEmail(cli.getTopico(), service.mensagemEmail(), "Five Stars Bank");

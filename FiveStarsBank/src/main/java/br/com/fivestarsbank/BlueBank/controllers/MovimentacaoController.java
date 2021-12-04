@@ -1,9 +1,10 @@
 package br.com.fivestarsbank.BlueBank.controllers;
 
 import java.net.URI;
-import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -25,8 +26,8 @@ public class MovimentacaoController {
 	private MovimentacaoService service;
 	
 	@GetMapping(path = "/{id}")
-	public ResponseEntity<List<Movimentacao>> listar(@PathVariable Long id) {
-		List<Movimentacao> lista = service.listar(id);
+	public ResponseEntity<Page<Movimentacao>> listar(@PathVariable Long id, Pageable pageable) {
+		Page<Movimentacao> lista = service.listar(id, pageable);
 		return ResponseEntity.ok().body(lista);
 	}
 

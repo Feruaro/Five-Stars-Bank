@@ -1,10 +1,11 @@
 package br.com.fivestarsbank.BlueBank.service;
 
 import java.time.LocalDate;
-import java.util.List;
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
 import br.com.fivestarsbank.BlueBank.models.Conta;
@@ -30,10 +31,9 @@ public class MovimentacaoService {
 		Optional<Movimentacao> movi = repo.findById(id);
 		return movi.orElseThrow(() -> new ObjetoNaoEncontradoException("Movimentação - Id: " + id));
 	}
-
-	public List<Movimentacao> listar(Long id) {
-		Conta conta = conta_service.buscar(id);
-		return conta.getTransacoes();
+	
+	public Page<Movimentacao> listar(Long id, Pageable pageable) {
+		return repo.findAllByConta_id(pageable, id);
 	}
 	
 	private Movimentacao converterDTO(MovimentacaoDTO movi) {

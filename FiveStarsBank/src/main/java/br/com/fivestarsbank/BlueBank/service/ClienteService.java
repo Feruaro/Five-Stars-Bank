@@ -6,6 +6,8 @@ import java.util.List;
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
 import br.com.fivestarsbank.BlueBank.models.Cliente;
@@ -39,6 +41,10 @@ public class ClienteService {
 
 	public List<Cliente> listar() {
 		return repo.findAll();
+	}
+	
+	public Page<Cliente> listarPage(Pageable pageable) {
+		return repo.findAll(pageable);
 	}
 
 	public Cliente salvar(Cliente cliente) {

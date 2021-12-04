@@ -32,5 +32,10 @@ public class SNSEmailService {
 		PublishRequest publishRequest = new PublishRequest(topic_arn, menssagem, assunto);
 		snsClient.publish(publishRequest);
 	}
+	
+	public void enviarEmail2(String topic_arn, String menssagem, String assunto) {
+		PublishRequest publishRequest = new PublishRequest(topic_arn, menssagem, assunto);
+		snsClient.publish(publishRequest);
+	}
 
 }
