@@ -36,7 +36,7 @@
 
 --------
 
-* [Script]()
+* [Script](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/script_database.sql)
 
   ​
 
