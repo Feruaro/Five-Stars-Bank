@@ -2,7 +2,7 @@
 
 # Bem-vindos ao Five Stars Bank :moneybag:
 
-* Uma breve descrição sobre o projeto
+* Projeto desenvolvido para o banco fictício BlueBank, uma API para gerenciar as transações da nova plataforma que o banco está construindo. O sistema deve permitir cadastro de novos clientes, incluindo dados pessoais e dados para contato. O cliente deve ser atrelado a uma conta bancária e registrar histórico de transações entre as contas.
 
 * [Requisitos](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/requisitos_projeto.md)
 
@@ -32,6 +32,22 @@
 
 
 
+### Bando de Dados - MySQL:
+
+--------
+
+* [Script]()
+
+  ​
+
+### Documentação:
+
+------
+
+- [Swagger]()
+
+  ​
+
 ### Projeto:
 
 --------
@@ -40,13 +56,13 @@
 
 * [Explicação sobre o código](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/explicacao_codigo.md)
 
-* [Explicação sobre a estrutura / árvore do código]()
-
 * [Lista de endpoints](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/lista_%20endpoints.md)
 
 * [Lista de JSON]()
 
 * [Vídeo do projeto]()
+
+* [Tratamento de exceptions]()
 
   ​
 
@@ -112,6 +128,16 @@
 * GET - `/contas/{id}/{periodo}`
 
 ![extrato](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/extrato.jpg)
+
+### AWS:
+
+------
+
+* [AWS com EC2 e em Beanstalk]()
+
+* [Lambda]()
+
+  ​
 
 ### Squad Five Stars Bank:
 
