@@ -44,7 +44,7 @@
 
 ------
 
-- [Swagger]()
+- [Swagger](http://fivestarsbank-env-1.eba-hrsrzt2u.us-east-2.elasticbeanstalk.com/swagger-ui.html)
 
   ​
 
@@ -59,8 +59,6 @@
 * [Lista de endpoints](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/lista_%20endpoints.md)
 
 * [Lista de JSON]()
-
-* [Vídeo do projeto]()
 
 * [Tratamento de exceptions]()
 
@@ -133,7 +131,7 @@
 
 ------
 
-* [AWS com EC2 e em Beanstalk]()
+* [AWS com EC2 e em Beanstalk - vídeo]()
 
 * [Lambda]()
 

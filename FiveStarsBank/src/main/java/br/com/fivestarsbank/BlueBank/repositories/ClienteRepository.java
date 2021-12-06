@@ -7,5 +7,6 @@ import br.com.fivestarsbank.BlueBank.models.Cliente;
 
 @Repository
 public interface ClienteRepository extends JpaRepository<Cliente, Long> {
-		
+	
+	
 }

@@ -31,7 +31,7 @@ public class MovimentacaoService {
 		Optional<Movimentacao> movi = repo.findById(id);
 		return movi.orElseThrow(() -> new ObjetoNaoEncontradoException("Movimentação - Id: " + id));
 	}
-	
+
 	public Page<Movimentacao> listar(Long id, Pageable pageable) {
 		return repo.findAllByConta_id(pageable, id);
 	}
@@ -43,6 +43,11 @@ public class MovimentacaoService {
 	public Movimentacao incluir(MovimentacaoDTO movi, Long id) {
 		Conta conta = conta_service.buscar(id);
 		Movimentacao mov = converterDTO(movi);
+		
+		// Utilizar essa linha se quiser testar movimentações com outros datas (simular
+		// extratos):
+		// LocalDate data = (movi.getData_transacao() == null) ? LocalDate.now() :
+		// movi.getData_transacao();
 
 		if (contaAtiva(conta)) {
 			mov.setData_transacao(LocalDate.now());
@@ -50,7 +55,7 @@ public class MovimentacaoService {
 
 			//enviar e-mail com os dados da transação para o cliente
 			String arn = conta.getCliente().getTopico();
-			sns_service.enviarEmail(arn, gerarMensagemEmail(mov), gerarAssuntoEmail(mov));
+			sns_service.enviarEmailMovi(arn, gerarMensagemEmail(mov), gerarAssuntoEmail(mov));
 			
 			conta.getTransacoes().add(mov);
 		} else {

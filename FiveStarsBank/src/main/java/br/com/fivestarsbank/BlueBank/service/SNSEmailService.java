@@ -28,12 +28,12 @@ public class SNSEmailService {
 		snsClient.subscribe(request);
 	}
 
-	public void enviarEmail(String topic_arn, String menssagem, String assunto) {
+	public void enviarEmailCliente(String topic_arn, String menssagem, String assunto) {
 		PublishRequest publishRequest = new PublishRequest(topic_arn, menssagem, assunto);
 		snsClient.publish(publishRequest);
 	}
 	
-	public void enviarEmail2(String topic_arn, String menssagem, String assunto) {
+	public void enviarEmailMovi(String topic_arn, String menssagem, String assunto) {
 		PublishRequest publishRequest = new PublishRequest(topic_arn, menssagem, assunto);
 		snsClient.publish(publishRequest);
 	}

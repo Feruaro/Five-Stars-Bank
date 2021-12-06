@@ -27,7 +27,7 @@ import br.com.fivestarsbank.BlueBank.service.SNSEmailService;
 @RestController
 @RequestMapping(path = "/clientes")
 public class ClienteController {
- 
+
 	@Autowired
 	private ClienteService service;
 	@Autowired
@@ -38,7 +38,7 @@ public class ClienteController {
 		Cliente cliente = service.buscar(id);
 		return ResponseEntity.ok().body(cliente);
 	}
-	
+
 	@GetMapping
 	public ResponseEntity<Page<Cliente>> listar(Pageable pageable) {
 		Page<Cliente> listaCliente = service.listarPage(pageable);
@@ -58,7 +58,7 @@ public class ClienteController {
 	@GetMapping(path = "/snsEmail/{id}") 
 	public ResponseEntity<String> enviarEmail(@PathVariable Long id) {
 		Cliente cli = service.buscar(id);
-		sns_service.enviarEmail(cli.getTopico(), service.mensagemEmail(), "Five Stars Bank");
+		sns_service.enviarEmailCliente(cli.getTopico(), service.mensagemEmail(), "Five Stars Bank");
 		String body = "E-mail enviado com sucesso!";
 		return ResponseEntity.ok().body(body);
 	}

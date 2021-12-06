@@ -21,6 +21,7 @@ public class ContatoDTO {
 	@Length(min = 3, max = 25, message = "Contato de referência entre 3 e 25 caracteres.")
 	private String contato_tel;
 
+	@NotEmpty(message = "Preenchimento obrigatório")
 	@Length(min = 10, max = 50, message = "E-mail entre 10 e 50 caracteres.")
 	@Email
 	private String email;

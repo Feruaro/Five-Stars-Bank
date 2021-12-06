@@ -36,6 +36,7 @@ public class Contato implements Serializable {
 	@Length(max = 25)
 	private String contato_tel;
 
+	@NotNull
 	@Length(max = 50)
 	private String email;
 
