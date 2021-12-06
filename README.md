@@ -52,15 +52,15 @@
 
 --------
 
-* [Passo a passo instalação IDE]()
+* [Passo a passo instalação IDE](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/instalacao_ide.md)
 
 * [Explicação sobre o código](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/explicacao_codigo.md)
 
 * [Lista de endpoints](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/lista_%20endpoints.md)
 
-* [Lista de JSON]()
+* [Lista de JSON](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/lista_json.md)
 
-* [Tratamento de exceptions]()
+* [Tratamento de exceptions](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/tratamento_exception.md)
 
   ​
 
