@@ -132,7 +132,7 @@
 
 ![lista movi 1](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/listar_movi.jpg)
 
-<img align="center" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/listar_movi2.jpg"/>
+<img align="right" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/listar_movi2.jpg"/>
 
 * GET - `/contas/{id}/{periodo}`
 
