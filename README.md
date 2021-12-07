@@ -74,7 +74,7 @@
 
 ![email](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/cadastro_cliente2.jpg)
 
-![confirmação email](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/cadastro_cliente3.jpg)
+<img align="center" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/cadastro_cliente3.jpg"/>
 
 * GET - `/clientes/snsEmail/{id}`
 
@@ -96,7 +96,7 @@
 
 * GET - `/clientes`
 
-![listar](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/listar_clientes_aws.jpg)
+<img align="center" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/listar_clientes_aws.jpg"/>
 
 * GET - `/clientes?size=1&page=1`
 
@@ -108,11 +108,11 @@
 
 * GET - `/clientes/{id}`
 
-![buscar](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/buscar_cliente.jpg)
+<img align="center" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/buscar_cliente.jpg"/>
 
-![buscar2](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/buscar_cliente2.jpg)
+<img align="center" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/buscar_cliente2.jpg"/>
 
-![buscar exception](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/buscar_cliente_exception.jpg)
+<img align="center" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/buscar_cliente_exception.jpg"/>
 
 ![buscar exception](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/buscar_cliente_exception2.jpg)
 
@@ -132,13 +132,13 @@
 
 ![lista movi 1](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/listar_movi.jpg)
 
-![lista movi 1](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/listar_movi2.jpg)
+<img align="center" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/listar_movi2.jpg"/>
 
 * GET - `/contas/{id}/{periodo}`
 
 ![extrato](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/extrato.jpg)
 
-![extrato](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/extrato2.jpg)
+<img align="center" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/extrato2.jpg"/>
 
 * DELETE - `/clientes/{id}`
 
@@ -156,7 +156,7 @@
 
 ![deletar](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/deletar_cliente.jpg)
 
-![deletar](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/deletar_cliente2.jpg)
+<img align="center" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/deletar_cliente2.jpg"/>
 
 ### AWS:
 
