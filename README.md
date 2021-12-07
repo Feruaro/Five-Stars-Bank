@@ -44,7 +44,7 @@
 
 ------
 
-- [Swagger](http://fivestarsbank-env-1.eba-hrsrzt2u.us-east-2.elasticbeanstalk.com/swagger-ui.html)
+- [Swagger](http://fivestarsbank-env.eba-ppa5qcjh.us-west-1.elasticbeanstalk.com/swagger-ui.html)
 
   ​
 
