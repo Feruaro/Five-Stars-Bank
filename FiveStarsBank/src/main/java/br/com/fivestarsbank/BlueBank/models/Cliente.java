@@ -21,6 +21,7 @@ import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
 import br.com.fivestarsbank.BlueBank.models.enums.TipoCliente;
+import io.swagger.annotations.ApiModelProperty;
 
 @Entity
 public class Cliente implements Serializable {
@@ -63,6 +64,7 @@ public class Cliente implements Serializable {
 	@JsonFormat(pattern = "dd/MM/yyyy")
 	private LocalDate data_nascimento;
 
+	@ApiModelProperty(value = "ARN do topic - SNS AWS")
 	private String topico;
 
 	@OneToMany(mappedBy = "cliente", cascade = CascadeType.ALL)

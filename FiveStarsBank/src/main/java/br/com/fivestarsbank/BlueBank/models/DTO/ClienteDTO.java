@@ -9,6 +9,7 @@ import javax.validation.constraints.NotNull;
 import org.hibernate.validator.constraints.Length;
 
 import br.com.fivestarsbank.BlueBank.service.validation.ClienteCadastro;
+import io.swagger.annotations.ApiModelProperty;
 
 //DTO Cliente para cadastro
 @ClienteCadastro
@@ -28,6 +29,7 @@ public class ClienteDTO implements Serializable {
 	@Length(min = 2, max = 20, message = "Apelido entre 2 e 50 caracteres")
 	private String apelido;
 
+	@ApiModelProperty(value = "Tipo de cliente - código (1 ou 2)")
 	@NotNull(message = "Preenchimento obrigatório")
 	private Integer tipo;
 

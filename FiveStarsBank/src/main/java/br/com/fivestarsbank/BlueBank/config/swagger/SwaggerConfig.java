@@ -22,15 +22,19 @@ public class SwaggerConfig {
 	        return new Docket(DocumentationType.SWAGGER_2)
 	          .apiInfo(apiInfo())
 	          .select()
-	          .apis(RequestHandlerSelectors.any())
+	          .apis(RequestHandlerSelectors.basePackage("br.com.fivestarsbank.BlueBank.controllers"))
 	          .paths(PathSelectors.any())
-	          .build();
+	          .build()
+	          .useDefaultResponseMessages(false);
 	    }
 
 		private ApiInfo apiInfo() {
 			return new ApiInfoBuilder()
 					.title("Five Stars Bank")
 					.description("Sistema de cadastro de clientes e transações entre contas bancárias")
+					.version("1.0.0")
 					.build();
 		}
+		
+		
 }
