@@ -188,6 +188,8 @@
 
 Tecnologias e ferramentas utilizadas para desenvolver o projeto:
 
+* Trello -> quadro Kanban utilizado para organização da squad;
+
 * IDE - Eclipse -> IDE de desenvolvimento do back end;
 
 * Postman e Imsomnia -> API Client utilizado para testes da API;
