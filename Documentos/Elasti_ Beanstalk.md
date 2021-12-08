@@ -12,38 +12,38 @@
 
   ​
 
-	spring.datasource.url=jdbc:mysql://{rds.hostname}:{rds.port}/${rds.db.name}
-	spring.datasource.username=${rds.username}
-	spring.datasource.password=${rds.password}
-
+> spring.datasource.url=jdbc:mysql://{rds.hostname}:{rds.port}/${rds.db.name}
+> spring.datasource.username=${rds.username}
+> spring.datasource.password=${rds.password}
 
 * Configurarações no arquivo `pom.xml`:
 
-  ​
+  ​	
 
-	<profiles>	
-		<profile>
-			<id>beanstalk</id>
-			<build>
-				<finalName>${project.name}-eb</finalName>
-				<plugins>
-					<plugin>
-						<groupId>org.springframework.boot</groupId>
-						<artifactId>spring-boot-maven-plugin</artifactId>
-					</plugin>
-					<plugin>
-						<groupId>org.apache.maven.plugins</groupId>
-						<artifactId>maven-compiler-plugin</artifactId>
-						<configuration>
-							<excludes>
-								<exclude>**/cloud/config/*.java</exclude>
-							</excludes>
-						</configuration>
-					</plugin>
-				</plugins>
-			</build>
-		</profile>
-	</profiles>
+> 	<profiles>
+> 		<profile>
+> 			<id>beanstalk</id>
+> 			<build>
+> 				<finalName>${project.name}-eb</finalName>
+> 				<plugins>
+> 					<plugin>
+> 						<groupId>org.springframework.boot</groupId>
+> 						<artifactId>spring-boot-maven-plugin</artifactId>
+> 					</plugin>
+> 					<plugin>
+> 						<groupId>org.apache.maven.plugins</groupId>
+> 						<artifactId>maven-compiler-plugin</artifactId>
+> 						<configuration>
+> 							<excludes>
+> 								<exclude>**/cloud/config/*.java</exclude>
+> 							</excludes>
+> 						</configuration>
+> 					</plugin>
+> 				</plugins>
+> 			</build>
+> 		</profile>
+> 	</profiles>
+
 * Clicar com o botão direito na pasta principal do projeto -> run as -> Maven Builder
 
   ​
