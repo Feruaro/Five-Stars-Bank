@@ -12,7 +12,7 @@
 
 ---------
 
-* [Link quadro Kanban](https://trello.com/b/WDxoUFpc/kanban-5-stars-bank)
+* [Quadro Kanban](https://trello.com/b/WDxoUFpc/kanban-5-stars-bank)
 
 * *espaço para foto do quadro - colocar no sab*
 
