@@ -94,8 +94,6 @@
 
   ​
 
-![incluir](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/incluir_movi.jpg)
-
 ![incluir](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/incluir_movi2.jpg)
 
 ![email incluir 1](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/incluir_movi_email.jpg)
