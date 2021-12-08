@@ -61,6 +61,8 @@
 
 * [Tratamento de exceptions](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/tratamento_exception.md)
 
+* [vídeo do projeto]()
+
   ​
 
 ### Endpoints:
@@ -162,9 +164,39 @@
 
 ------
 
-* [AWS com EC2 e em Beanstalk - vídeo]()
-
+* [AWS com EC2 e em Beanstalk](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/Elasti_%20Beanstalk.md)
+* [SNS]()
+* [API Gateway]()
+* [AWS Builder]()
 * [Lambda]()
+
+
+
+### Tecnologias:
+
+---
+
+Tecnologias e ferramentas utilizadas para desenvolver o projeto:
+
+* IDE - Eclipse -> IDE de desenvolvimento do back end;
+
+* Postman e Imsomnia -> API Client utilizado para testes da API;
+
+* MySQL Worchbenk -> ferramenta utilizada para o gerenciamento e testes do banco de dados;
+
+* Git -> utilizado para o controle de versões do código e da documentação;
+
+* GitHub -> utilizada para armazenar as versões do código e documentações do projeto;
+
+* Elastic Beanstalk -> serviço utilizada para implantação da API;
+
+* SNS (Simple Notification Service) -> serviço de notificação que utilizamos para entrega de e-mails aos clientes;
+
+* API Gateway -> ferramenta de gerenciamento de API;
+
+* AWS Builder -> serviço básico de gerenciamento de imagens;
+
+* Lambda -> programa orientado a eventos;
 
   ​
 
