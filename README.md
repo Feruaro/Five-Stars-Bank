@@ -165,7 +165,7 @@
 ------
 
 * [AWS com EC2 e em Beanstalk](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/Elasti_%20Beanstalk.md)
-* [SNS]()
+* [SNS](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/SNS_Simple_Notification_Service.md)
 * [API Gateway]()
 * [AWS Builder]()
 * [Lambda]()
