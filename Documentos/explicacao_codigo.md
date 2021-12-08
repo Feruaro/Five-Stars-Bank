@@ -246,3 +246,5 @@
 
 * **SNS - Config:**
   * **AWSSNSConfig =** configuração do SNS da AWS, informamos a chave de acesso e a chave secreta de acesso do token security, e qual a região;
+* **Swagger - Config:**
+  * **SwaggerConfig =** configuração da documentação Swagger do projeto;
