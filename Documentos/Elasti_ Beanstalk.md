@@ -8,41 +8,17 @@
 
 ----------
 
-* Criar um arquivo `application-beanstalk.properties` na pasta `\src\main\resources`:
+* Criar um arquivo [application-beanstalk.properties](https://github.com/Feruaro/Five-Stars-Bank/blob/main/FiveStarsBank/src/main/resources/application-beanstalk.properties) na pasta `\src\main\resources`:
 
   ​
 
-> spring.datasource.url=jdbc:mysql://{rds.hostname}:{rds.port}/${rds.db.name}
-> spring.datasource.username=${rds.username}
-> spring.datasource.password=${rds.password}
+<img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/2_config_cod.jpg"/>
 
-* Configurarações no arquivo `pom.xml`:
+* Configurarações no arquivo [pom.xml](https://github.com/Feruaro/Five-Stars-Bank/blob/main/FiveStarsBank/pom.xml):
 
-  ​	
+  ​
 
-> 	<profiles>
-> 		<profile>
-> 			<id>beanstalk</id>
-> 			<build>
-> 				<finalName>${project.name}-eb</finalName>
-> 				<plugins>
-> 					<plugin>
-> 						<groupId>org.springframework.boot</groupId>
-> 						<artifactId>spring-boot-maven-plugin</artifactId>
-> 					</plugin>
-> 					<plugin>
-> 						<groupId>org.apache.maven.plugins</groupId>
-> 						<artifactId>maven-compiler-plugin</artifactId>
-> 						<configuration>
-> 							<excludes>
-> 								<exclude>**/cloud/config/*.java</exclude>
-> 							</excludes>
-> 						</configuration>
-> 					</plugin>
-> 				</plugins>
-> 			</build>
-> 		</profile>
-> 	</profiles>
+<img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/1_config_cod.jpg"/>
 
 * Clicar com o botão direito na pasta principal do projeto -> run as -> Maven Builder
 
