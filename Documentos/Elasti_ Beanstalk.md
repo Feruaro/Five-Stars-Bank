@@ -74,6 +74,10 @@
 
 <img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/8_deploy.jpg"/>
 
+<img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/13_deploy.jpg"/>
+
+<img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/14_deploy.jpg"/>
+
 * Criando o ambiente:
 
   ​
