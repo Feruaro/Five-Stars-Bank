@@ -126,8 +126,6 @@
 
 <img align="center" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/buscar_cliente_exception.jpg"/>
 
-![buscar exception](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/buscar_cliente_exception2.jpg)
-
 * POST - `/contas/{id}`
 
 ![cadastro conta](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/cadastrar_conta.jpg)
@@ -176,7 +174,7 @@
 
 * [AWS com EC2 e em Beanstalk](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/Elasti_%20Beanstalk.md)
 * [SNS](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/SNS_Simple_Notification_Service.md)
-* [API Gateway]()
+* [API Gateway](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/API_Gateway.md)
 * [AWS Builder]()
 * [Lambda]()
 
