@@ -74,11 +74,19 @@
 
 <img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/8_deploy.jpg"/>
 
+* "Configurar mais opções" -> Banco de dados -> "Editar":
+
+  ​
+
 <img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/13_deploy.jpg"/>
+
+* Preencher com as seguintes informações -> "Salvar":
+
+  ​
 
 <img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/14_deploy.jpg"/>
 
-* Criando o ambiente:
+* "Criar ambiente" -> Criando o ambiente:
 
   ​
 
