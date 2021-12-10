@@ -98,91 +98,91 @@
 * POST - `/clientes`
 
 
-![cadastro cliente](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/cadastro_cliente.jpg)
+![cadastro cliente](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/cadastro_cliente.jpg)
 
-![email](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/cadastro_cliente2.jpg)
+![email](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/cadastro_cliente2.jpg)
 
-<img align="center" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/cadastro_cliente3.jpg"/>
+<img align="center" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/cadastro_cliente3.jpg"/>
 
 * GET - `/clientes/snsEmail/{id}`
 
-![sns email](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/enviar_email.jpg)
+![sns email](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/enviar_email.jpg)
 
-![email](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/enviar_email2.jpg)
+![email](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/enviar_email2.jpg)
 
 * POST - `/enderecos/{id}`
 
-![adicionar end](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/adicionar_endereco.jpg)
+![adicionar end](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/adicionar_endereco.jpg)
 
 * PUT - `/enderecos/{id}`
 
-![inativar end](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/inativar_endereco.jpg)
+![inativar end](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/inativar_endereco.jpg)
 
-![inativar end exception](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/inativar_endereco_exception2.jpg)
+![inativar end exception](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/inativar_endereco_exception2.jpg)
 
-![inativar end exception](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/inativar_endereco_exception.jpg)
+![inativar end exception](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/inativar_endereco_exception.jpg)
 
 * GET - `/clientes`
 
-<img align="center" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/listar_clientes_aws.jpg"/>
+<img align="center" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/listar_clientes_aws.jpg"/>
 
 * GET - `/clientes?size=1&page=1`
 
-![listar](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/listar_clientes_pag1.jpg)
+![listar](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/listar_clientes_pag1.jpg)
 
 * PUT - `/clientes/{id}`
 
-![atualizar](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/atualizar_cliente.jpg)
+![atualizar](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/atualizar_cliente.jpg)
 
 * GET - `/clientes/{id}`
 
-<img align="center" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/buscar_cliente.jpg"/>
+<img align="center" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/buscar_cliente.jpg"/>
 
-<img align="center" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/buscar_cliente2.jpg"/>
+<img align="center" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/buscar_cliente2.jpg"/>
 
-<img align="center" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/buscar_cliente_exception.jpg"/>
+<img align="center" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/buscar_cliente_exception.jpg"/>
 
 * POST - `/contas/{id}`
 
-![cadastro conta](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/cadastrar_conta.jpg)
+![cadastro conta](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/cadastrar_conta.jpg)
 
 * POST - `/movimentacoes/{id}`
 
-![incluir](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/incluir_movi.jpg)
+![incluir](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/incluir_movi.jpg)
 
-![incluir](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/incluir_movi2.jpg)
+![incluir](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/incluir_movi2.jpg)
 
-![email incluir 1](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/incluir_movi_email.jpg)
+![email incluir 1](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/incluir_movi_email.jpg)
 
 * GET - `/movimentacoes/{id}?size=3&page=0`
 
-![lista movi 1](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/listar_movi.jpg)
+![lista movi 1](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/listar_movi.jpg)
 
-<img align="center" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/listar_movi2.jpg"/>
+<img align="center" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/listar_movi2.jpg"/>
 
 * GET - `/contas/{id}/{periodo}`
 
-![extrato](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/extrato.jpg)
+![extrato](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/extrato.jpg)
 
-<img align="center" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/extrato2.jpg"/>
+<img align="center" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/extrato2.jpg"/>
 
 * DELETE - `/clientes/{id}`
 
-![deletar exception](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/deletar_cliente_exception.jpg)
+![deletar exception](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/deletar_cliente_exception.jpg)
 
 * PUT - `/contas/{id}`
 
-![fechar conta](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/fechar_conta.jpg)
+![fechar conta](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/fechar_conta.jpg)
 
 * POST - `/movimentacoes/{id}`
 
-![incluir exception](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/incluir_movi_exception.jpg)
+![incluir exception](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/incluir_movi_exception.jpg)
 
 * DELETE - `/clientes/{id}`
 
-![deletar](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/deletar_cliente.jpg)
+![deletar](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/deletar_cliente.jpg)
 
-<img align="center" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/deletar_cliente2.jpg"/>
+<img align="center" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/deletar_cliente2.jpg"/>
 
 
 ### Tecnologias:
