@@ -2,7 +2,7 @@
 
 # Bem-vindos ao Five Stars Bank :moneybag:
 
-* Projeto desenvolvido para o banco fictício BlueBank, uma API para gerenciar as transações da nova plataforma que o banco está construindo. O sistema deve permitir cadastro de novos clientes, incluindo dados pessoais e dados para contato. O cliente deve ser atrelado a uma conta bancária e registrar histórico de transações entre as contas.
+* Projeto desenvolvido para o banco Five Stars Bank, uma API para gerenciar as transações da nova plataforma que o banco está construindo. O sistema deve permitir cadastro de novos clientes, incluindo dados pessoais e dados para contato. O cliente deve ser atrelado a uma conta bancária e registrar histórico de transações entre as contas.
 
 * [Requisitos](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/requisitos_projeto.md)
 
@@ -55,6 +55,22 @@
 ------
 
 - [Swagger](http://fivestarsbank-env.eba-ppa5qcjh.us-west-1.elasticbeanstalk.com/swagger-ui.html)
+
+  ​
+
+### AWS:
+
+------
+
+- [AWS com EC2 e em Beanstalk](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/Elasti_%20Beanstalk.md)
+
+- [SNS](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/SNS_Simple_Notification_Service.md)
+
+- [API Gateway](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/API_Gateway.md)
+
+- [Pipeline](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/Pipeline.md)
+
+- [Lambda](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/Lambda.md)
 
   ​
 
@@ -167,17 +183,6 @@
 ![deletar](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/deletar_cliente.jpg)
 
 <img align="center" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/deletar_cliente2.jpg"/>
-
-### AWS:
-
-------
-
-* [AWS com EC2 e em Beanstalk](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/Elasti_%20Beanstalk.md)
-* [SNS](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/SNS_Simple_Notification_Service.md)
-* [API Gateway](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/API_Gateway.md)
-* [Pipeline](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/Pipeline.md)
-* [Lambda]()
-
 
 
 ### Tecnologias:
