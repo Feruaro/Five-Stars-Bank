@@ -14,9 +14,15 @@
 
 * [Quadro Kanban - convite](https://trello.com/invite/b/WDxoUFpc/32cdd819c1cbc949e44a1bd175c74b85/kanban-5-stars-bank)
 
-* *espaço para foto do quadro - colocar no sab*
 
-  ​
+
+<img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Trello/1.jpg"/>
+
+<img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Trello/2.jpg"/>
+
+<img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Trello/3.jpg"/>
+
+<img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Trello/4.jpg"/>
 
 ### MER:
 
