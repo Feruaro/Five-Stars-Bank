@@ -1,4 +1,4 @@
-<img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/ElasticBeanstalk/foto.jpg"/>
+<img align="right" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/ElasticBeanstalk/foto.jpg"/>
 
 ## Elastic Beanstalk:
 
