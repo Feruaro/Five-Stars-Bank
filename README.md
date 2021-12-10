@@ -54,7 +54,7 @@
 
 ------
 
-- Swagger - `swagger-ui.html`:
+- Swagger - `/swagger-ui.html`:
 
   ​
 
