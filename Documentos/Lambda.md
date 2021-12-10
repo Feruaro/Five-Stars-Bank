@@ -1,5 +1,29 @@
 ## Lambda:
 
-<img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/1_lambda.jpg"/>
+* Passo a passo da criação do Lambda
 
-<img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/2_lambda.jpg"/>
+  ​
+
+### Configurações na AWS:
+
+-----------
+
+* Preencher as informações básicas -> "Criar função":
+
+  ​
+
+<img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Lambda/1.jpg"/>
+
+* "Fazer upload de" -> "deploy":
+
+  ​
+
+<img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Lambda/2.jpg"/>
+
+### Testando Lambda:
+
+----
+
+<img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Lambda/3.jpg"/>
+
+<img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Lambda/4.jpg"/>
