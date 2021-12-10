@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/APIGateway/foto.png"/>
+<img align="right" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/APIGateway/foto.jpg"/>
 
 ## API Gateway:
 
@@ -6,7 +6,7 @@
 
   ​
 
-### Configurações:
+### Configurações: 
 
 -------
 
