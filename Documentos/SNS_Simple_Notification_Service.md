@@ -1,3 +1,5 @@
+<img align="right" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/SNS/foto.png"/>
+
 ## SNS - Simple Notification Service:
 
 * Passo a passo de como resolvemos implementar o serviço de notificação da AWS, utilizando o protocolo "email"
