@@ -1,3 +1,5 @@
+<img align="right" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Lambda/foto.png"/>
+
 ## Lambda:
 
 * Passo a passo da criação do Lambda
