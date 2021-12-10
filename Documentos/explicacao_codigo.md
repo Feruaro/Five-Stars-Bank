@@ -1,3 +1,5 @@
+<img align="right" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/foto.jpg"/>
+
 ## Vamos para uma breve explicação do código:
 
 ### Models:
