@@ -54,9 +54,11 @@
 
 ------
 
-- [Swagger](http://fivestarsbank-env.eba-ppa5qcjh.us-west-1.elasticbeanstalk.com/swagger-ui.html)
+- [Swagger](file:///F:/Documentos/FERNANDA/PAN/GITHUB/Five-Stars-Bank/Documentos/Swagger%20UI.html)
 
   ​
+
+<img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Swagger/swagger.jpg"/>
 
 ### AWS:
 
