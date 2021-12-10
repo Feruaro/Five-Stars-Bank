@@ -1,3 +1,5 @@
+<img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/ElasticBeanstalk/foto.jpg"/>
+
 ## Elastic Beanstalk:
 
 * Passo a passo de como implementamos nossa API no Elastic Beankstalk
