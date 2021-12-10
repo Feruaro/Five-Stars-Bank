@@ -19,6 +19,7 @@
 | /contas/{id}/{periodo}  | GET    | Exibe o extrato de uma conta a partir de um periodo de dias |
 | /movimentacoes/{id}     | GET    | Listar movimentações da conta de um cliente |
 | /movimentacoes/{id}     | POST   | Cadastra uma transação relacionada a conta de um cliente, e envia um e-mail com as informações da transação |
+| /swagger-ui.html        |        | Documentação Swagger                     |
 
 
 
