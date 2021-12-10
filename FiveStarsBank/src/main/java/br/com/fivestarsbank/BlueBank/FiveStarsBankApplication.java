@@ -10,6 +10,6 @@ public class FiveStarsBankApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FiveStarsBankApplication.class, args);
-	}
+	} 
 
 }

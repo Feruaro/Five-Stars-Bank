@@ -13,8 +13,8 @@ import com.amazonaws.services.sns.AmazonSNSClientBuilder;
 @Configuration
 public class AWSSNSConfig {
 
-	public static final String ACCESS_KEY = "AKIA6BZRT7L4YR72JVVZ";
-    public static final String SECRET_KEY = "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";
+	public static final String ACCESS_KEY = "AKIA6BZRT7L42TESQOR4";
+    public static final String SECRET_KEY = "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";
     
 	@Primary
 	@Bean
@@ -22,5 +22,5 @@ public class AWSSNSConfig {
 		return (AmazonSNSClient) AmazonSNSClientBuilder.standard().withRegion(Regions.US_EAST_2)
 				.withCredentials(new AWSStaticCredentialsProvider(new BasicAWSCredentials(ACCESS_KEY, SECRET_KEY)))
 				.build();
-	}
+	} 
 }
