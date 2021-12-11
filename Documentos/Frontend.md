@@ -1,6 +1,6 @@
 ## Vamos conhecer nosso front:
 
-* Desenhamos nosso front end no Figma e está como item de backlog para ser implementado.
+* Desenhamos nosso front end no Figma e está como item de backlog para ser implementado. 
 
   ​
 
@@ -8,7 +8,7 @@
 
 ----
 
-<img height="300em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/1.jpg"/>
+<img height="500em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/1.jpg"/>
 
 <img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/2.jpg"/>
 
