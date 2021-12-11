@@ -208,6 +208,8 @@
 
 * Desenho no Figma do nosso [front end](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/Frontend.md)
 
+  ​
+
  <img align="left" height="400em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/1.jpg"/>
 
 <img align="left" height="400em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/5.jpg"/>
@@ -215,6 +217,8 @@
 <img align="left" height="400em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/32.jpg"/>
 
 <img align="left" height="400em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/33.jpg"/>
+
+
 
 ### Tecnologias:
 
