@@ -16,15 +16,15 @@
 
 <img align="left" height="500em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/4.jpg"/>
 
-<img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/5.jpg"/>
+<img align="left" height="500em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/5.jpg"/>
 
-<img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/6.jpg"/>
+<img align="left" height="500em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/6.jpg"/>
 
-<img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/7.jpg"/>
+<img align="left" height="500em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/7.jpg"/>
 
-<img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/8.jpg"/>
+<img align="left" height="500em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/8.jpg"/>
 
-<img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/9.jpg"/>
+<img align="left" height="500em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/9.jpg"/>
 
 <img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/10.jpg"/>
 
