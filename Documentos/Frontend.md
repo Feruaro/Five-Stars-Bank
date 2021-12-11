@@ -66,11 +66,11 @@
 
 <img align="left" height="500em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/29.jpg"/>
 
+<img align="left" height="500em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/32.jpg"/>
+
 <img align="left" height="500em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/30.jpg"/>
 
 <img align="left" height="500em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/31.jpg"/>
-
-<img align="left" height="500em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/32.jpg"/>
 
 <img align="left" height="500em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/33.jpg"/>
 
