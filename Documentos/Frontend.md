@@ -14,7 +14,7 @@
 
 <img align="left" height="500em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/3.jpg"/>
 
-<img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/4.jpg"/>
+<img align="left" height="500em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/4.jpg"/>
 
 <img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/5.jpg"/>
 
