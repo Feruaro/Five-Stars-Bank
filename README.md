@@ -8,6 +8,16 @@
 
   ​
 
+### Apresentação:
+
+------------
+
+* [Link da apresentação](https://docs.google.com/presentation/d/1zOWp6DO5NXwjyvDGBRfbCNhOmS9Q7bWOjESwOU032mg/edit?usp=sharing)  *Depois trocar pelo PDF - ATÉ SEG*
+
+  ​
+
+<img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Apresentacao/1.jpg"/>
+
 ### Organização:
 
 ---------
@@ -91,11 +101,11 @@
 
 * [Lista de endpoints](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/lista_%20endpoints.md)
 
-* [Lista de JSON](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/lista_json.md)
+* [Lista de JSON](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/lista_json.md)    *FALTA COLOCAR OS JSON - ATÉ SEG*
 
 * [Tratamento de exceptions](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/tratamento_exception.md)
 
-* [vídeo do projeto]()
+* [vídeo do projeto]()  *FALTA COLOCAR O VÍDEO - ATÉ SEG*
 
   ​
 
@@ -198,7 +208,13 @@
 
 * Desenho no Figma do nosso [front end](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/Frontend.md)
 
-  ​
+ <img align="left" height="400em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/1.jpg"/>
+
+<img align="left" height="400em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/5.jpg"/>
+
+<img align="left" height="400em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/32.jpg"/>
+
+<img align="left" height="400em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/33.jpg"/>
 
 ### Tecnologias:
 
