@@ -196,7 +196,7 @@
 
 ---------
 
-* COLOCAR OS DESENHOS DO FRONT AQUI 
+* Desenho no Figma do nosso [front end](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/Frontend.md)
 
   ​
 
