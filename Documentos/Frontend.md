@@ -8,7 +8,7 @@
 
 ----
 
-<img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/1.jpg"/>
+<img height="300em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/1.jpg"/>
 
 <img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/2.jpg"/>
 
