@@ -1,5 +1,7 @@
 ## Lista JSON:
 
+* Cliente 1:
+
 	{	
 		"senha" : "4ITytuZrmZ",
 		"nome" : "Itaci",
@@ -19,6 +21,8 @@
 		"descricao" : "principal",
 		"email" : "itaici@gmail.com"
 	} 
+* Cliente 2:
+
 ```
 {
 	"senha" : "hCXiRIgZhC",
@@ -42,6 +46,8 @@
 }
 ```
 
+* Cliente 3:
+
 ```
 {
 	"senha" : "4ITytuZrmZ",
@@ -64,6 +70,8 @@
 }
 ```
 
+* Cliente 4:
+
 	{	
 		"senha" : "5LKapkTo5F",
 		"nome" : "Letícia",
@@ -84,6 +92,8 @@
 		"descricao" : "principal",
 		"email" : "leticia@gmail.com"
 	}
+* Cliente 5:
+
 	{
 		"senha" : "xQpUKhDf8O",
 		"nome" : "Rodrigo",
