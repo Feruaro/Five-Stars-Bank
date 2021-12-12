@@ -296,6 +296,8 @@ Tecnologias e ferramentas utilizadas para desenvolver o projeto:
 
   ​
 
+  <center>[Voltar ao início](#Bem-vindos-ao-Five-Stars-Bank)</center>
+
 ---------------
 
 <img align="left" height="150em" width="145em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/squad/Fabio.png"/>
@@ -307,7 +309,3 @@ Tecnologias e ferramentas utilizadas para desenvolver o projeto:
 <img align="left" height="150em" width="145em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/squad/Le.jpg"/>
 
 <img align="left" height="150em" width="145em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/squad/Rodrigo.jpg"/>
-
-
-
-​                                                                                [Voltar ao início](#Bem-vindos-ao-Five-Stars-Bank)
