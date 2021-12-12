@@ -84,6 +84,10 @@
 
 - Swagger - `/swagger-ui.html`:
 
+- [Documentação SwaggerUI - pdf](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/SwaggerUI.pdf)
+
+- [Documentação - pdf](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/Documenta%C3%A7%C3%A3o.pdf)
+
   ​
 
 <img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Swagger/swagger.jpg"/>
