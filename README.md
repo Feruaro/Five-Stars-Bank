@@ -22,8 +22,6 @@
 | [Tecnologias](#Tecnologias)              | Tudo sobre as tecnologias utilizadas para a elaboração do projeto |
 | [Squad](#Squad-Five-Stars-Bank)          | Tudo sobre a squad e os meios de contato com todos |
 
-
-
 ### Apresentação:
 
 ------------
@@ -33,6 +31,8 @@
   ​
 
 <img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Apresentacao/1.jpg"/>
+
+
 
 ### Organização:
 
@@ -92,6 +92,8 @@
 
 <img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Swagger/swagger.jpg"/>
 
+
+
 ### AWS:
 
 ------
@@ -112,18 +114,18 @@
 
 --------
 
-* [Explicação sobre o código](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/explicacao_codigo.md)
+* [Sobre o código](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/explicacao_codigo.md)
 
+* [Tratamento de exceptions](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/tratamento_exception.md)
 
 * [Lista de endpoints](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/lista_%20endpoints.md)
 
 * [Lista de JSON](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/lista_json.md)
 
-* [Tratamento de exceptions](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/tratamento_exception.md)
-
 * [vídeo do projeto]()  *FALTA COLOCAR O VÍDEO - ATÉ SEG*
 
   ​
+
 
 ### Endpoints:
 
@@ -218,6 +220,8 @@
 
 <img align="center" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/deletar_cliente2.jpg"/>
 
+
+
 ### Front end:
 
 ---------
@@ -241,6 +245,8 @@
 ---
 
 Tecnologias e ferramentas utilizadas para desenvolver o projeto:
+
+
 
 * [Trello](https://trello.com/)
 
