@@ -4,27 +4,27 @@
 
 * Cliente 1:
 
-  {
-  	"senha" : "A4L0DpwQIM",
-  	"nome" : "Fábio",
-  	"apelido" : "seu Fábio",
-  	"tipo" : 1,
-  	"cpf_cnpj" : "81492443107",
-  	"rg_ie" : "244063187",
-  	"genero" : "Masculino",
-  	"data_nascimento" : "16/07/1981",
-  	"logradouro" : "Quadra 4E Conjunto A, 128",
-  	"bairro" : "Arapoanga (Planaltina)",
-  	"cep" : "73368440",
-  	"cidade" : "Brasília",
-  	"estado" : "DF",
-  	"pais" : "Brasil",
-  	"telefone" : "61999076569",
-  	"descricao" : "principal",
-  	"email" : "fabio@gmail.com"
-  }
 
 
+	{	
+		"senha" : "A4L0DpwQIM",
+		"nome" : "Fábio",
+		"apelido" : "seu Fábio",
+		"tipo" : 1,
+		"cpf_cnpj" : "81492443107",
+		"rg_ie" : "244063187",
+		"genero" : "Masculino",
+		"data_nascimento" : "16/07/1981",
+		"logradouro" : "Quadra 4E Conjunto A, 128",
+		"bairro" : "Arapoanga (Planaltina)",
+		"cep" : "73368440",
+		"cidade" : "Brasília",
+		"estado" : "DF",
+		"pais" : "Brasil",
+		"telefone" : "61999076569",
+		"descricao" : "principal",
+		"email" : "fabio@gmail.com"
+	}
 * Cliente 2:
 
 ```
@@ -50,8 +50,6 @@
 }
 ```
 
-
-
 * Cliente 3:
 
 ```
@@ -75,8 +73,6 @@
 	"email" : "itaici@gmail.com"
 }
 ```
-
-
 
 * Cliente 4:
 
@@ -103,8 +99,6 @@
 }
 ```
 
-
-
 * Cliente 5:
 
 ```
@@ -129,13 +123,106 @@
 }
 ```
 
+* Cliente 6:	
 
+	{	
+		"senha" : "Qx1k637N",
+		"nome" : "Sônia e Kauê Corretores Associados ME",
+		"apelido" : "Sônia e Kauê",
+		"tipo" : 2,
+		"cpf_cnpj" : "07202741000102",
+		"rg_ie" : "0763877500102",
+		"logradouro" : "Residencial São Gabriel Rua 07, 969",
+		"bairro" : "São Gabriel (São Sebastião)",
+		"cep" : "71693257",
+		"cidade" : "Brasília",
+		"estado" : "DF",
+		"pais" : "Brasil",
+		"telefone" : "6139730698",
+		"descricao" : "principal",
+		"email" : "contato@soniaekauecorretoresassociadosme.com.br"
+	}
+* Cliente 7:
 
+	{	
+		"senha" : "RiqgHieR",
+		"nome" : "Mirella e Maria Vidros ME",
+		"apelido" : "Mirella e Maria",
+		"tipo" : 2,
+		"cpf_cnpj" : "48445216000197",
+		"rg_ie" : "9740069830",
+		"logradouro" : "Rua Concórdia, 703",
+		"bairro" : "Niterói",
+		"cep" : "92120140",
+		"cidade" : "Canoas",
+		"estado" : "RS",
+		"pais" : "Brasil",
+		"telefone" : "5125850603",
+		"descricao" : "principal",
+		"email" : "producao@mirellaemariavidrosme.com.br"
+	}
+* Cliente 8:	
+
+	{
+		"senha" : "w49gZ6Hu",
+		"nome" : "Mirella e Maria Vidros ME",
+		"apelido" : "Mirella e Maria",
+		"tipo" : 2,
+		"cpf_cnpj" : "48445216000197",
+		"rg_ie" : "9740069830",
+		"logradouro" : "Rua Concórdia, 703",
+		"bairro" : "Niterói",
+		"cep" : "92120140",
+		"cidade" : "Canoas",
+		"estado" : "RS",
+		"pais" : "Brasil",
+		"telefone" : "5125850603",
+		"descricao" : "principal",
+		"email" : "producao@mirellaemariavidrosme.com.br"
+	}
+* Cliente 9:	
+
+	{	
+		"senha" : "E4JzwLJC",
+		"nome" : "André e Francisca Restaurante ME",
+		"apelido" : "André e Francisca",
+		"tipo" : 2,
+		"cpf_cnpj" : "96666534000120",
+		"rg_ie" : "982257505577",
+		"logradouro" : "Rua Doutor Ademar Pereira de Barros, 134",
+		"bairro" : "Santa Terezinha",
+		"cep" : "14787020",
+		"cidade" : "Barretos",
+		"estado" : "SP",
+		"pais" : "Brasil",
+		"telefone" : "1739165259",
+		"descricao" : "principal",
+		"email" : "presidencia@andreefranciscarestauranteme.com.br"
+	}
+* Cliente 10:
+
+	{	
+		"senha" : "9An54lJL",
+		"nome" : "Sarah e Rosângela Publicidade e Propaganda Ltda",
+		"apelido" : "Sarah e Rosângela",
+		"tipo" : 2,
+		"cpf_cnpj" : "75945000000163",
+		"rg_ie" : "672851795817",
+		"logradouro" : "Rua Donatto Perrotti, 676",
+		"bairro" : "Residencial Monte Líbano",
+		"cep" : "16202103",
+		"cidade" : "Birigüi",
+		"estado" : "SP",
+		"pais" : "Brasil",
+		"telefone" : "1826727847",
+		"descricao" : "principal",
+		"email" : "ouvidoria@saraherosangelapublicidadeepropagandaltda.com.br"
+	}
 ### Cliente - Atualizar:
 
----------
+------
 
-
+* Cliente atualizar 1:
 
 	{
 		"nome" : "Jenifer"
@@ -151,64 +238,60 @@
 
 * Endereço 1:
 
-  {
-  	"logradouro" : "SCC Projeção 09",
-  	"bairro" : "Setor Central (Gama)",
-  	"cep" : "72404903",
-  	"cidade" : "Brasília",
-  	"estado" : "DF",
-  	"pais" : "Brasil"
-  }
 
-
+	{
+		"logradouro" : "SCC Projeção 09",
+		"bairro" : "Setor Central (Gama)",
+		"cep" : "72404903",
+		"cidade" : "Brasília",
+		"estado" : "DF",
+		"pais" : "Brasil"
+	}
 * Endereço 2:
 
-  {
-  	"logradouro" : "Rua Favorita",
-  	"bairro" : "Agronomia",
-  	"cep" : "91530500",
-  	"cidade" : "Porto Alegre",
-  	"estado" : "RS",
-  	"pais" : "Brasil"
-  }
 
-
+	{
+		"logradouro" : "Rua Favorita",
+		"bairro" : "Agronomia",
+		"cep" : "91530500",
+		"cidade" : "Porto Alegre",
+		"estado" : "RS",
+		"pais" : "Brasil"
+	}
 * Endereço 3:
 
-  {
-  	"logradouro" : "Avenida Nações Unidas",
-  	"bairro" : "Jardim Santo Expedito",
-  	"cep" : "15700168",
-  	"cidade" : "Jales",
-  	"estado" : "SP",
-  	"pais" : "Brasil"
-  }
 
 
+	{
+		"logradouro" : "Avenida Nações Unidas",
+		"bairro" : "Jardim Santo Expedito",
+		"cep" : "15700168",
+		"cidade" : "Jales",
+		"estado" : "SP",
+		"pais" : "Brasil"
+	}
 * Endereço 4:
 
-  {
-  	"logradouro" : "Rua Pedro Pereira da Silva",
-  	"bairro" : "Perobal",
-  	"cep" : "07432005",
-  	"cidade" : "Arujá",
-  	"estado" : "SP",
-  	"pais" : "Brasil"
-  }
 
 
+	{
+		"logradouro" : "Rua Pedro Pereira da Silva",
+		"bairro" : "Perobal",
+		"cep" : "07432005",
+		"cidade" : "Arujá",
+		"estado" : "SP",
+		"pais" : "Brasil"
+	}
 * Endereço 5:
 
-  {
-  	"logradouro" : "Rua Roraima",
-  	"bairro" : "Vila Didi",
-  	"cep" : "13203282",
-  	"cidade" : "Jundiaí",
-  	"estado" : "SP",
-  	"pais" : "Brasil"
-  }
-
-
+	{
+		"logradouro" : "Rua Pedro Pereira da Silva",
+		"bairro" : "Perobal",
+		"cep" : "07432005",
+		"cidade" : "Arujá",
+		"estado" : "SP",
+		"pais" : "Brasil"
+	}
 ### Endereco - Inativar:
 
 ------
@@ -223,56 +306,44 @@
 
 * Contato 1:
 
-  {
-  	"telefone" : "6125229666",
-  	"descricao" : "casa", 
-  	"email" : "fabio@gmail.com"
-  }
+	{
+		"telefone" : "6125229666",
+		"descricao" : "casa", 
+		"email" : "fabio@gmail.com"
+	}
+* Contato 2:
 
-
-* Contat 2:
-
-  {
-  	"telefone" : "5127484623",
-  	"descricao" : "casa", 
-  	"email" : "fenanda@gmail.com"
-  }
-
-
+	{
+		"telefone" : "5127484623",
+		"descricao" : "casa", 
+		"email" : "fenanda@gmail.com"
+	}
 * Contato 3:
 
-  {
-  	"telefone" : "1435007232",
-  	"descricao" : "casa", 
-  	"email" : "itaici@gmail.com"
-  }
-
-
+	{
+		"telefone" : "1435007232",
+		"descricao" : "casa", 
+		"email" : "itaici@gmail.com"
+	}
 * Contato 4:
 
-  {
-  	"telefone" : "1128932343",
-  	"descricao" : "casa", 
-  	"email" : "leticia@gmail.com"
-  }
+	{	
+		"telefone" : "1128932343",
+		"descricao" : "casa", 
+		"email" : "leticia@gmail.com"
+	}
+* Contato 5:	
 
-
-* Contato 5:
-
-  {
-  	"telefone" : "1938472739",
-  	"descricao" : "casa", 
-  	"email" : "rodrigo@gmail.com"
-  }
-
-
+	{
+		"telefone" : "1938472739",
+		"descricao" : "casa", 
+		"email" : "rodrigo@gmail.com"
+	}
 ### Contato - Inativar:
 
 -----------
 
 `NoBody`
-
-
 
 ### Conta - Cadastrar:
 
@@ -280,15 +351,11 @@
 
 `NoBody`
 
-
-
 ### Conta - Fechar:
 
 ------------
 
 `NoBody`
-
-
 
 ### Movimentacao - Incluir:
 
@@ -315,5 +382,12 @@
 		"id_transacao" : 658742,
 		"valor" : 1000.00,
 		"credito_debito" : 1,
+		"descricao" : "presente natal"
+	}
+	{
+		"tipo" : 1,
+		"id_transacao" : 658742,
+		"valor" : 1000.00,
+		"credito_debito" : 2,
 		"descricao" : "presente natal"
 	}
