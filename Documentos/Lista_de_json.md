@@ -29,51 +29,45 @@
 		"descricao" : "principal",
 		"email" : "itaici@gmail.com"
 	} 
-```
-{
-	"senha" : "hCXiRIgZhC",
-	"nome" : "Fernanda",
-	"apelido" : "Fe",
-	"tipo" : 1,
-	"cpf_cnpj" : "98602791011",
-	"rg_ie" : "129411371",
-	"genero" : "Feminino",
-	"data_nascimento" : "20/08/1999",
-	"logradouro" : "Rua Doutor João Palombini, 478",
-	"complemento" : "Apto 304",
-	"bairro" : "Aberta dos Morros",
-	"cep" : "91751150",
-	"cidade" : "Porto Alegre",
-	"estado" : "RS",
-	"pais" : "Brasil",
-	"telefone" : "51998834627",
-	"descricao" : "principal",
-	"email" : "fernanda@gmail.com"
-}
-```
-
-```
-{
-	"senha" : "4ITytuZrmZ",
-	"nome" : "Itaci",
-	"apelido" : "",
-	"tipo" : 1,
-	"cpf_cnpj" : "95459809827",
-	"rg_ie" : "184680219",
-	"genero" : "Masculino",
-	"data_nascimento" : "17/11/1990",
-	"logradouro" : "Rua Salamanca, 738",
-	"bairro" : "Jardim Bertoni",
-	"cep" : "13478791",
-	"cidade" : "Americana",
-	"estado" : "SP",
-	"pais" : "Brasil",
-	"telefone" : "19986536077",
-	"descricao" : "principal",
-	"email" : "itaici@gmail.com"
-}
-```
-
+	{
+		"senha" : "hCXiRIgZhC",
+		"nome" : "Fernanda",
+		"apelido" : "Fe",
+		"tipo" : 1,
+		"cpf_cnpj" : "98602791011",
+		"rg_ie" : "129411371",
+		"genero" : "Feminino",
+		"data_nascimento" : "20/08/1999",
+		"logradouro" : "Rua Doutor João Palombini, 478",
+		"complemento" : "Apto 304",
+		"bairro" : "Aberta dos Morros",
+		"cep" : "91751150",
+		"cidade" : "Porto Alegre",
+		"estado" : "RS",
+		"pais" : "Brasil",
+		"telefone" : "51998834627",
+		"descricao" : "principal",
+		"email" : "fernanda@gmail.com"
+	}
+	{
+		"senha" : "4ITytuZrmZ",
+		"nome" : "Itaci",
+		"apelido" : "",
+		"tipo" : 1,
+		"cpf_cnpj" : "95459809827",
+		"rg_ie" : "184680219",
+		"genero" : "Masculino",
+		"data_nascimento" : "17/11/1990",
+		"logradouro" : "Rua Salamanca, 738",
+		"bairro" : "Jardim Bertoni",
+		"cep" : "13478791",
+		"cidade" : "Americana",
+		"estado" : "SP",
+		"pais" : "Brasil",
+		"telefone" : "19986536077",
+		"descricao" : "principal",
+		"email" : "itaici@gmail.com"
+	}
 	{ 
 		"senha" : "5LKapkTo5F",
 		"nome" : "Letícia",
