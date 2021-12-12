@@ -8,34 +8,19 @@
 
   ​
 
-| Sumário                                  |
-| ---------------------------------------- |
-| [Apresentação](#Apresentação)            |
-| [Organização](#Organização)              |
-| [Modelagem](#Modelagem)                  |
-| [Banco de dados](#Bando-de-Dados---MySQL) |
-| [Documentação](#Documentação)            |
-| [AWS](#AWS)                              |
-| [Projeto](#Projeto)                      |
-| [Endpoint](#Endpoint)                    |
-| [Front end](#Front-end)                  |
-| [Tecnologias](#Tecnologias)              |
-| [Squad](#Squad-Five-Stars-Bank)          |
-
-|                               |                             |                         |                                          |                                 |             |
-| ----------------------------- | --------------------------- | ----------------------- | ---------------------------------------- | ------------------------------- | ----------- |
-| [Apresentação](#Apresentação) | [Organização](#Organização) | [Modelagem](#Modelagem) | [Banco de dados](#Bando-de-Dados---MySQL) | [Documentação](#Documentação)   | [AWS](#AWS) |
-| [Projeto](#Projeto)           | [Endpoint](#Endpoint)       | [Front end](#Front-end) | [Tecnologias](#Tecnologias)              | [Squad](#Squad-Five-Stars-Bank) |             |
-
-
-
-### Sumário:
-
-----
-
-​        [Apresentação](#Apresentação)   |   [Organização](#Organização)   |   [Modelagem](#Modelagem)   |   [Banco de dados](#Bando-de-Dados-MySQL)   |   [Documentação](#Documentação)   |   [AWS](#AWS)    
-
-​                                        [Projeto](#Projeto)   |   [Endpoint](#Endpoint)   |   [Front end](#Front-end)   |   [Tecnologias](#Tecnologias)   |   [Squad](#Squad-Five-Stars-Bank)
+| Sumário                                  | Informações                              |
+| ---------------------------------------- | ---------------------------------------- |
+| [Apresentação](#Apresentação)            | Tudo sobre os slides da apresentação a banca final |
+| [Organização](#Organização)              | Tudo sobre a metodologia que utilizamos para organizar e dividir as funções |
+| [Modelagem](#Modelagem)                  | Tudo sobre a modelagem do projeto        |
+| [Banco de dados](#Bando-de-Dados---MySQL) | Tudo sobre o banco de dados utilizado e o script |
+| [Documentação](#Documentação)            | Tudo sobre a documentação do projeto, utilizamos o Swagger |
+| [AWS](#AWS)                              | Tudo sobre os serviços da AWS que utilizamos |
+| [Projeto](#Projeto)                      | Tudo sobre informações do projeto com foco no back end |
+| [Endpoint](#Endpoint)                    | Tudo sobre as funções de cada endpoint   |
+| [Front end](#Front-end)                  | Tudo sobre o front end do projeto        |
+| [Tecnologias](#Tecnologias)              | Tudo sobre as tecnologias utilizadas para a elaboração do projeto |
+| [Squad](#Squad-Five-Stars-Bank)          | Tudo sobre a squad e os meios de contato com todos |
 
 
 
