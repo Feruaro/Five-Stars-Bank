@@ -12,7 +12,7 @@
 
 ------------
 
-* [Link da apresentação](https://docs.google.com/presentation/d/1zOWp6DO5NXwjyvDGBRfbCNhOmS9Q7bWOjESwOU032mg/edit?usp=sharing)  *Depois trocar pelo PDF - ATÉ SEG*
+* [Apresentação](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/Apresenta%C3%A7%C3%A3o_Banco_Pan.pdf)  
 
   ​
 
