@@ -113,6 +113,26 @@
 		"descricao" : "principal",
 		"email" : "rodrigo@gmail.com"
 	}
+	{
+		"senha" : "Qx1k637N",
+		"nome" : "Sônia e Kauê Corretores Associados ME",
+		"apelido" : "Sônia e Kauê",
+		"tipo" : 2,
+		"cpf_cnpj" : "07202741000102",
+		"rg_ie" : "0763877500102",
+		"logradouro" : "Residencial São Gabriel Rua 07, 969",
+		"bairro" : "São Gabriel (São Sebastião)",
+		"cep" : "71693257",
+		"cidade" : "Brasília",
+		"estado" : "DF",
+		"pais" : "Brasil",
+		"telefone" : "6139730698",
+		"descricao" : "principal",
+		"contato_tel" : "Sônia",
+		"email" : "contato@soniaekauecorretoresassociadosme.com.br"
+	}
+
+
 ### Endereco - Adicionar:
 
 -----------
