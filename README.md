@@ -22,7 +22,7 @@
 | [Tecnologias](#Tecnologias)              | Tudo sobre as tecnologias utilizadas para a elaboração do projeto |
 | [Squad](#Squad-Five-Stars-Bank)          | Tudo sobre a squad e os meios de contato com todos |
 
-### Apresentação:
+### 📅 Apresentação:
 
 ------------
 
@@ -34,7 +34,7 @@
 
 
 
-### Organização:
+### 📂 Organização:
 
 ---------
 
@@ -52,7 +52,7 @@
 
 
 
-### Modelagem:
+### ✏️ Modelagem:
 
 --------
 
@@ -70,7 +70,7 @@
 
 
 
-### Bando de Dados - MySQL:
+### 🖥️ Bando de Dados - MySQL:
 
 --------
 
@@ -78,7 +78,7 @@
 
   ​
 
-### Documentação:
+### 📚 Documentação:
 
 ------
 
@@ -94,7 +94,7 @@
 
 
 
-### AWS:
+### ☁️ AWS:
 
 ------
 
@@ -110,7 +110,7 @@
 
   ​
 
-### Projeto:
+### 🧑‍💻 Projeto:
 
 --------
 
@@ -127,7 +127,7 @@
   ​
 
 
-### Endpoints:
+### ⚙️ Endpoints:
 
 -----
 
@@ -222,7 +222,7 @@
 
 
 
-### Front end:
+### 📱 Front end:
 
 ---------
 
@@ -240,7 +240,7 @@
 
 
 
-### Tecnologias:
+### 💻 Tecnologias:
 
 ---
 
@@ -280,7 +280,7 @@ Tecnologias e ferramentas utilizadas para desenvolver o projeto:
 
   ​
 
-### Squad Five Stars Bank:
+### 👩‍💻 Squad Five Stars Bank:
 
 -------
 
