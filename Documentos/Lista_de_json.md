@@ -131,8 +131,78 @@
 		"contato_tel" : "Sônia",
 		"email" : "contato@soniaekauecorretoresassociadosme.com.br"
 	}
-
-
+	{
+		"senha" : "RiqgHieR",
+		"nome" : "Mirella e Maria Vidros ME",
+		"apelido" : "Mirella e Maria",
+		"tipo" : 2,
+		"cpf_cnpj" : "48445216000197",
+		"rg_ie" : "9740069830",
+		"logradouro" : "Rua Concórdia, 703",
+		"bairro" : "Niterói",
+		"cep" : "92120140",
+		"cidade" : "Canoas",
+		"estado" : "RS",
+		"pais" : "Brasil",
+		"telefone" : "5125850603",
+		"descricao" : "principal",
+		"contato_tel" : "Maria",
+		"email" : "producao@mirellaemariavidrosme.com.br"
+	}
+	{
+		"senha" : "w49gZ6Hu",
+		"nome" : "Caio e Pietra Vidros Ltda",
+		"apelido" : "Caio e Pietra",
+		"tipo" : 2,
+		"cpf_cnpj" : "63067251000103",
+		"rg_ie" : "971605144754",
+		"logradouro" : "Travessa Antônio Terzi, 969",
+		"bairro" : "Vila Anhangüera",
+		"cep" : "04673100",
+		"cidade" : "São Paulo",
+		"estado" : "SP",
+		"pais" : "Brasil",
+		"telefone" : "1129107542",
+		"descricao" : "principal",
+		"contato_tel" : "Caio",
+		"email" : "financeiro@caioepietravidrosltda.com.br"
+	}
+	{	
+		"senha" : "E4JzwLJC",
+		"nome" : "André e Francisca Restaurante ME",
+		"apelido" : "André e Francisca",
+		"tipo" : 2,
+		"cpf_cnpj" : "96666534000120",
+		"rg_ie" : "982257505577",
+		"logradouro" : "Rua Doutor Ademar Pereira de Barros, 134",
+		"bairro" : "Santa Terezinha",
+		"cep" : "14787020",
+		"cidade" : "Barretos",
+		"estado" : "SP",
+		"pais" : "Brasil",
+		"telefone" : "1739165259",
+		"descricao" : "principal",
+		"contato_tel" : "Francisca",
+		"email" : "presidencia@andreefranciscarestauranteme.com.br"
+	}	
+	{	
+		"senha" : "9An54lJL",
+		"nome" : "Sarah e Rosângela Publicidade e Propaganda Ltda",
+		"apelido" : "Sarah e Rosângela",
+		"tipo" : 2,
+		"cpf_cnpj" : "75945000000163",
+		"rg_ie" : "672851795817",
+		"logradouro" : "Rua Donatto Perrotti, 676",
+		"bairro" : "Residencial Monte Líbano",
+		"cep" : "16202103",
+		"cidade" : "Birigüi",
+		"estado" : "SP",
+		"pais" : "Brasil",
+		"telefone" : "1826727847",
+		"descricao" : "principal",
+		"contato_tel" : "Sarah",
+		"email" : "ouvidoria@saraherosangelapublicidadeepropagandaltda.com.br"
+	}
 ### Endereco - Adicionar:
 
 -----------
