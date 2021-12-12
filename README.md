@@ -101,7 +101,7 @@
 
 * [Lista de endpoints](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/lista_%20endpoints.md)
 
-* [Lista de JSON](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/lista_json.md)    *FALTA COLOCAR OS JSON - ATÉ SEG*
+* [Lista de JSON](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/lista_json.md)
 
 * [Tratamento de exceptions](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/tratamento_exception.md)
 
@@ -226,29 +226,35 @@
 
 Tecnologias e ferramentas utilizadas para desenvolver o projeto:
 
-* Trello -> quadro Kanban utilizado para organização da squad;
+* [Trello](https://trello.com/)
 
-* Draw.io -> ferramenta para desenho do diagramas;
+* [Draw.io](https://app.diagrams.net/)
 
-* IDE - Eclipse -> IDE de desenvolvimento do back end;
+* [Java 11](https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html)
 
-* Postman e Imsomnia -> API Client utilizado para testes da API;
+* [IDE - Eclipse](https://www.eclipse.org/downloads/)
 
-* MySQL Worchbenk -> ferramenta utilizada para o gerenciamento e testes do banco de dados;
+* [Spring Boot](https://start.spring.io/)
 
-* Git -> utilizado para o controle de versões do código e da documentação;
+* [Maven](https://mvnrepository.com/)
 
-* GitHub -> utilizada para armazenar as versões do código e documentações do projeto;
+* [Postman](https://www.postman.com/) e [Imsomnia](https://insomnia.rest/download)
 
-* Elastic Beanstalk -> serviço utilizada para implantação da API;
+* [MySQL Worchbenk](https://www.mysql.com/products/workbench/)
 
-* SNS (Simple Notification Service) -> serviço de notificação que utilizamos para entrega de e-mails aos clientes;
+* [Git](https://git-scm.com/downloads) e [GitHub](https://github.com/) 
 
-* API Gateway -> ferramenta de gerenciamento de API;
+* [AWS Elastic Beanstalk](https://docs.aws.amazon.com/pt_br/elasticbeanstalk/latest/dg/Welcome.html)
 
-* AWS Builder -> serviço básico de gerenciamento de imagens;
+* [AWS SNS (Simple Notification Service)](https://docs.aws.amazon.com/pt_br/sns/latest/dg/welcome.html)
 
-* Lambda -> programa orientado a eventos;
+* [AWS API Gateway](https://docs.aws.amazon.com/pt_br/apigateway/latest/developerguide/welcome.html)
+
+* [AWS CodePipeline](https://docs.aws.amazon.com/pt_br/codepipeline/latest/userguide/welcome.html)
+
+* [AWS Lambda ](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/welcome.html)
+
+* [Figma](https://www.figma.com/)
 
   ​
 
