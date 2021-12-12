@@ -310,4 +310,4 @@ Tecnologias e ferramentas utilizadas para desenvolver o projeto:
 
 --------------
 
-<p align="center">[Voltar ao início](#Bem-vindos-ao-Five-Stars-Bank)</p>
+​                                                                                [Voltar ao início](#Bem-vindos-ao-Five-Stars-Bank)
