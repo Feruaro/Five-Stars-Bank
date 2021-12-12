@@ -8,6 +8,12 @@
 
   ​
 
+------------------------
+
+[Apresentação](#Apresentação)   |   [Organização](#Organização)   |   [Modelagem](#Modelagem)   |
+
+---------------
+
 ### Apresentação:
 
 ------------
@@ -34,25 +40,21 @@
 
 <img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Trello/4.jpg"/>
 
-### MER:
+
+
+### Modelagem:
 
 --------
 
+* **MER:**
+
 ![MER](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/mer_final.jpg)
 
-
-
-### DER:
-
-----
+* **DER:**
 
 ![DER](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/der_final.jpg)
 
-
-
-### Diagrama de Classes:
-
--------
+* **Diagrama de classes:**
 
 ![dc](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/digrama_classes_final.jpg)
 
