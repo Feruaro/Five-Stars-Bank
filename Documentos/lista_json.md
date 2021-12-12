@@ -140,6 +140,7 @@
 		"pais" : "Brasil",
 		"telefone" : "6139730698",
 		"descricao" : "principal",
+		"contato_tel" : "Sônia",
 		"email" : "contato@soniaekauecorretoresassociadosme.com.br"
 	}
 * Cliente 7:
@@ -159,26 +160,28 @@
 		"pais" : "Brasil",
 		"telefone" : "5125850603",
 		"descricao" : "principal",
+		"contato_tel" : "Maria",
 		"email" : "producao@mirellaemariavidrosme.com.br"
 	}
 * Cliente 8:	
 
 	{
 		"senha" : "w49gZ6Hu",
-		"nome" : "Mirella e Maria Vidros ME",
-		"apelido" : "Mirella e Maria",
+		"nome" : "Caio e Pietra Vidros Ltda",
+		"apelido" : "Caio e Pietra",
 		"tipo" : 2,
-		"cpf_cnpj" : "48445216000197",
-		"rg_ie" : "9740069830",
-		"logradouro" : "Rua Concórdia, 703",
-		"bairro" : "Niterói",
-		"cep" : "92120140",
-		"cidade" : "Canoas",
-		"estado" : "RS",
+		"cpf_cnpj" : "63067251000103",
+		"rg_ie" : "971605144754",
+		"logradouro" : "Travessa Antônio Terzi, 969",
+		"bairro" : "Vila Anhangüera",
+		"cep" : "04673100",
+		"cidade" : "São Paulo",
+		"estado" : "SP",
 		"pais" : "Brasil",
-		"telefone" : "5125850603",
+		"telefone" : "1129107542",
 		"descricao" : "principal",
-		"email" : "producao@mirellaemariavidrosme.com.br"
+		"contato_tel" : "Caio",
+		"email" : "financeiro@caioepietravidrosltda.com.br"
 	}
 * Cliente 9:	
 
@@ -197,6 +200,7 @@
 		"pais" : "Brasil",
 		"telefone" : "1739165259",
 		"descricao" : "principal",
+		"contato_tel" : "Francisca",
 		"email" : "presidencia@andreefranciscarestauranteme.com.br"
 	}
 * Cliente 10:
@@ -216,6 +220,7 @@
 		"pais" : "Brasil",
 		"telefone" : "1826727847",
 		"descricao" : "principal",
+		"contato_tel" : "Sarah",
 		"email" : "ouvidoria@saraherosangelapublicidadeepropagandaltda.com.br"
 	}
 ### Cliente - Atualizar:
