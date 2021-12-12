@@ -29,8 +29,6 @@
 		"descricao" : "principal",
 		"email" : "itaici@gmail.com"
 	} 
-
-
 ```
 {
 	"senha" : "hCXiRIgZhC",
@@ -54,8 +52,6 @@
 }
 ```
 
-
-
 ```
 {
 	"senha" : "4ITytuZrmZ",
@@ -78,9 +74,7 @@
 }
 ```
 
-
-
-	{	
+	{ 
 		"senha" : "5LKapkTo5F",
 		"nome" : "Letícia",
 		"apelido" : "Le",
@@ -100,9 +94,7 @@
 		"descricao" : "principal",
 		"email" : "leticia@gmail.com"
 	}
-
-
-	{
+	{	
 		"senha" : "xQpUKhDf8O",
 		"nome" : "Rodrigo",
 		"apelido" : "Ro",
@@ -121,3 +113,13 @@
 		"descricao" : "principal",
 		"email" : "rodrigo@gmail.com"
 	}
+### Endereco - Adicionar:
+
+-----------
+
+
+
+
+
+
+
