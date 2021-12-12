@@ -178,7 +178,7 @@
 		"descricao" : "principal",
 		"contato_tel" : "Francisca",
 		"email" : "presidencia@andreefranciscarestauranteme.com.br"
-	}	
+	}
 	{	
 		"senha" : "9An54lJL",
 		"nome" : "Sarah e Rosângela Publicidade e Propaganda Ltda",
@@ -197,13 +197,167 @@
 		"contato_tel" : "Sarah",
 		"email" : "ouvidoria@saraherosangelapublicidadeepropagandaltda.com.br"
 	}
+
+
+### Cliente - Atualizar:
+
+----------
+
+
+
+	{
+		"apelido" : "Nanda",
+	}
+	{
+		"Nome" : "Jéssica"
+		"apelido" : "Je",
+	}
+
+
 ### Endereco - Adicionar:
 
 -----------
 
+​	
+
+	{
+		"logradouro" : "SCC Projeção 09",
+		"bairro" : "Setor Central (Gama)",
+		"cep" : "72404903",
+		"cidade" : "Brasília",
+		"estado" : "DF", 
+		"pais" : "Brasil"
+	}
+	{
+		"logradouro" : "Rua Favorita",
+		"bairro" : "Agronomia",
+		"cep" : "91530500",
+		"cidade" : "Porto Alegre",
+		"estado" : "RS", 
+		"pais" : "Brasil"
+	}
+	{
+		"logradouro" : "Avenida Nações Unidas",
+		"bairro" : "Jardim Santo Expedito",
+		"cep" : "15700168",
+		"cidade" : "Jales",
+		"estado" : "SP", 
+		"pais" : "Brasil"
+	}
+	{
+		"logradouro" : "Rua Pedro Pereira da Silva",
+		"bairro" : "Perobal",
+		"cep" : "07432005",
+		"cidade" : "Arujá",
+		"estado" : "SP", 
+		"pais" : "Brasil"
+	}
+	{
+		"logradouro" : "Rua Delfim Moreira",
+		"bairro" : "Vila Bancária Munhoz",
+		"cep" : "02759050",
+		"cidade" : "São Paulo",
+		"estado" : "SP", 
+		"pais" : "Brasil"
+	}
+### Endereco - Inativar:
+
+-------
+
+`NoBody`
 
 
 
+### Contato - Adicionar:
+
+-----
 
 
 
+	{	
+		"telefone" : "6125229666",
+		"descricao" : "casa",
+		"email" : "fabio@gmail.com"
+	}
+	{	
+		"telefone" : "5127484623",
+		"descricao" : "casa",
+		"email" : "fenanda@gmail.com"
+	}
+	{	
+		"telefone" : "1435007232",
+		"descricao" : "casa",
+		"email" : "itaici@gmail.com"
+	}
+	{	
+		"telefone" : "1128932343",
+		"descricao" : "casa",
+		"email" : "leticia@gmail.com"
+	}
+	{	
+		"telefone" : "1938472739",
+		"descricao" : "casa",
+		"email" : "rodrigo@gmail.com"
+	}
+
+
+### Contato - Inativar:
+
+--------
+
+`NoBody`
+
+
+
+### Conta - Cadastrar:
+
+--------
+
+`NoBody`
+
+
+
+### Conta - Inativar:
+
+----------
+
+`NoBody`
+
+
+
+### Movimentacao - Incluir:
+
+------------
+
+
+
+```
+{
+	"tipo" : 1,
+	"valor" : 170.00,
+	"id_transacao" : 123654,
+	"credito_debito" : 1,
+	"descricao" : "pag academia"
+}
+{
+	"tipo" : 2,
+	"id_transacao" : 368574,
+	"valor" : 500.00,
+	"credito_debito" : 1,
+	"descricao" : "presente aniver"
+}
+{
+	"tipo" : 1,
+	"id_transacao" : 658742,
+	"valor" : 1000.00,
+	"credito_debito" : 1,
+	"descricao" : "presente natal"
+}
+{
+	"tipo" : 1,
+	"id_transacao" : 658742,
+	"valor" : 1000.00,
+	"credito_debito" : 2,
+	"descricao" : "presente natal"
+}
+```
