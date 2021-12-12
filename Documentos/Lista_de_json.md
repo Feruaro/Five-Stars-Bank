@@ -1,6 +1,14 @@
 ## Lista JSON:
 
-* Cliente 1:
+* Lista de Json para popular o bando de dados e utilizar para testar os endpoints do projeto
+
+  ​
+
+### Clientes - Cadastro:
+
+------------
+
+
 
 	{	
 		"senha" : "4ITytuZrmZ",
@@ -21,7 +29,7 @@
 		"descricao" : "principal",
 		"email" : "itaici@gmail.com"
 	} 
-* Cliente 2:
+
 
 ```
 {
@@ -46,7 +54,7 @@
 }
 ```
 
-* Cliente 3:
+
 
 ```
 {
@@ -70,7 +78,7 @@
 }
 ```
 
-* Cliente 4:
+
 
 	{	
 		"senha" : "5LKapkTo5F",
@@ -92,7 +100,7 @@
 		"descricao" : "principal",
 		"email" : "leticia@gmail.com"
 	}
-* Cliente 5:
+
 
 	{
 		"senha" : "xQpUKhDf8O",
