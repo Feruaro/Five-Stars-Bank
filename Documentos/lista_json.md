@@ -11,23 +11,23 @@
 
 
 	{	
-		"senha" : "4ITytuZrmZ",
-		"nome" : "Itaci",
-		"apelido" : "",
+		"senha" : "A4L0DpwQIM",
+		"nome" : "Fábio",
+		"apelido" : "seu Fábio",
 		"tipo" : 1,
-		"cpf_cnpj" : "95459809827",
-		"rg_ie" : "184680219",
+		"cpf_cnpj" : "81492443107",
+		"rg_ie" : "244063187",
 		"genero" : "Masculino",
-		"data_nascimento" : "17/11/1990",
-		"logradouro" : "Rua Salamanca, 738",
-		"bairro" : "Jardim Bertoni",
-		"cep" : "13478791",
-		"cidade" : "Americana",
-		"estado" : "SP",
+		"data_nascimento" : "16/07/1981",
+		"logradouro" : "Quadra 4E Conjunto A, 128",
+		"bairro" : "Arapoanga (Planaltina)",
+		"cep" : "73368440",
+		"cidade" : "Brasília",
+		"estado" : "DF",
 		"pais" : "Brasil",
-		"telefone" : "19986536077",
+		"telefone" : "61999076569",
 		"descricao" : "principal",
-		"email" : "itaici@gmail.com"
+		"email" : "fivestarspanacademy@hotmail.com"
 	} 
 	{
 		"senha" : "hCXiRIgZhC",
@@ -47,12 +47,12 @@
 		"pais" : "Brasil",
 		"telefone" : "51998834627",
 		"descricao" : "principal",
-		"email" : "fernanda@gmail.com"
+		"email" : "fernandaruaro26@hotmail.com"
 	}
 	{
 		"senha" : "4ITytuZrmZ",
 		"nome" : "Itaci",
-		"apelido" : "",
+		"apelido" : "Itaici",
 		"tipo" : 1,
 		"cpf_cnpj" : "95459809827",
 		"rg_ie" : "184680219",
