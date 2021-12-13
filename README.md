@@ -122,9 +122,8 @@
 
 * [Lista de JSON](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/lista_json.md)
 
-* [vídeo do projeto]()  *FALTA COLOCAR O VÍDEO - ATÉ SEG*
-
   ​
+
 
 
 ### ⚙️ Endpoints:
