@@ -130,7 +130,7 @@ public class ClienteService {
 	}
 
 	public String mensagemEmail() {
-		return "Seja bem-vindo(a) ao Banco Blue Bank! \n\nCliente cadastrado com sucesso!";
+		return "Seja bem-vindo(a) ao Five Stars Bank! \n\nCliente cadastrado com sucesso!";
 	}
 
 }
