@@ -2,7 +2,7 @@
 
 # Bem-vindos ao Five Stars Bank :moneybag:
 
-* Projeto desenvolvido para o banco Five Stars Bank, uma API para gerenciar as transações da nova plataforma que o banco está construindo. O sistema deve permitir cadastro de novos clientes, incluindo dados pessoais e dados para contato. O cliente deve ser atrelado a uma conta bancária e registrar histórico de transações entre as contas.
+* Projeto desenvolvido para o banco Five Stars Bank, uma API para gerenciar as transações da nova plataforma que o banco está construindo. O sistema deve permitir cadastro de novos clientes, incluindo dados pessoais e dados para contato. O cliente deve ser atrelado a uma conta bancária e registrar histórico de transações entre as contas. 
 
 * [Requisitos](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/requisitos_projeto.md)
 
@@ -10,7 +10,7 @@
 
 | Sumário                                  | Informações                              |
 | ---------------------------------------- | ---------------------------------------- |
-| [Apresentação](#Apresentação)            | Tudo sobre os slides da apresentação a banca final |
+| <a href="#Apresentação">Apresentação</a> | Tudo sobre os slides da apresentação a banca final |
 | [Organização](#Organização)              | Tudo sobre a metodologia que utilizamos para organizar e dividir as funções |
 | [Modelagem](#Modelagem)                  | Tudo sobre a modelagem do projeto        |
 | [Banco de dados](#Bando-de-Dados---MySQL) | Tudo sobre o banco de dados utilizado e o script |
