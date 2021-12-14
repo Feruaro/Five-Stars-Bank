@@ -20,7 +20,7 @@
 | [Endpoint](#Endpoint)                    | Tudo sobre as funções de cada endpoint   |
 | [Front end](#Front-end)                  | Tudo sobre o front end do projeto        |
 | [Tecnologias](#Tecnologias)              | Tudo sobre as tecnologias utilizadas para a elaboração do projeto |
-| [Squad](#Squad-Five-Stars-Bank)          | Tudo sobre a squad e os meios de contato com todos |
+| [Squad](#Squad)                          | Tudo sobre a squad e os meios de contato com todos |
 
 ### 📅 Apresentação:
 
@@ -279,7 +279,7 @@ Tecnologias e ferramentas utilizadas para desenvolver o projeto:
 
   ​
 
-### 👩‍💻 Squad Five Stars Bank:
+### 👩‍💻 Squad:
 
 -------
 
