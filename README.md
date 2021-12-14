@@ -10,7 +10,7 @@
 
 | Sumário                                  | Informações                              |
 | ---------------------------------------- | ---------------------------------------- |
-| <a href="#Apresentação">Apresentação</a> | Tudo sobre os slides da apresentação a banca final |
+| [Apresentação](#Apresentação)            | Tudo sobre os slides da apresentação a banca final |
 | [Organização](#Organização)              | Tudo sobre a metodologia que utilizamos para organizar e dividir as funções |
 | [Modelagem](#Modelagem)                  | Tudo sobre a modelagem do projeto        |
 | [Banco de dados](#Bando-de-Dados---MySQL) | Tudo sobre o banco de dados utilizado e o script |
