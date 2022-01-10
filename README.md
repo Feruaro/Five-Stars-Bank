@@ -241,6 +241,8 @@
 
 <br>
 
+<br>
+
 ### 💻 Tecnologias:<a name="tec"></a>
 
 ---
@@ -299,7 +301,7 @@ Tecnologias e ferramentas utilizadas para desenvolver o projeto:
 
 ---------------
 
-<br>
+
 
 <img align="left" height="150em" width="145em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/squad/Fabio.png"/>
 
@@ -311,7 +313,7 @@ Tecnologias e ferramentas utilizadas para desenvolver o projeto:
 
 <img align="left" height="150em" width="145em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/squad/Rodrigo.jpg"/>
 
-<br>
 
----------------------
+
+
 
