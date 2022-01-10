@@ -8,21 +8,23 @@
 
   ​
 
-| Sumário                                  | Informações                              |
-| ---------------------------------------- | ---------------------------------------- |
-| [Apresentação](#Apresentação)            | Tudo sobre os slides da apresentação a banca final |
-| [Organização](#Organização)              | Tudo sobre a metodologia que utilizamos para organizar e dividir as funções |
-| [Modelagem](#Modelagem)                  | Tudo sobre a modelagem do projeto        |
-| [Banco de dados](#Bando-de-Dados---MySQL) | Tudo sobre o banco de dados utilizado e o script |
-| [Documentação](#Documentação)            | Tudo sobre a documentação do projeto, utilizamos o Swagger |
-| [AWS](#AWS)                              | Tudo sobre os serviços da AWS que utilizamos |
-| [Projeto](#Projeto)                      | Tudo sobre informações do projeto com foco no back end |
-| [Endpoint](#Endpoint)                    | Tudo sobre as funções de cada endpoint   |
-| [Front end](#Front-end)                  | Tudo sobre o front end do projeto        |
-| [Tecnologias](#Tecnologias)              | Tudo sobre as tecnologias utilizadas para a elaboração do projeto |
-| [Squad](#Squad)                          | Tudo sobre a squad e os meios de contato com todos |
+| Sumário                       | Informações                              |
+| ----------------------------- | ---------------------------------------- |
+| [Apresentação](#apresentacao) | Tudo sobre os slides da apresentação a banca final |
+| [Organização](#org)           | Tudo sobre a metodologia que utilizamos para organizar e dividir as funções |
+| [Modelagem](#modelagem)       | Tudo sobre a modelagem do projeto        |
+| [Banco de dados](#bd)         | Tudo sobre o banco de dados utilizado e o script |
+| [Documentação](#doc)          | Tudo sobre a documentação do projeto, utilizamos o Swagger |
+| [AWS](#aws)                   | Tudo sobre os serviços da AWS que utilizamos |
+| [Projeto](#projeto)           | Tudo sobre informações do projeto com foco no back end |
+| [Endpoint](#endpoint)         | Tudo sobre as funções de cada endpoint   |
+| [Front end](#front)           | Tudo sobre o front end do projeto        |
+| [Tecnologias](#tec)           | Tudo sobre as tecnologias utilizadas para a elaboração do projeto |
+| [Squad](#squad)               | Tudo sobre a squad e os meios de contato com todos |
 
-### 📅 Apresentação:
+<br>
+
+### 📅 Apresentação:<a name="apresentacao"></a>
 
 ------------
 
@@ -32,9 +34,9 @@
 
 <img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Apresentacao/1.jpg"/>
 
+<br>
 
-
-### 📂 Organização:
+### 📂 Organização:<a name="org"></a>
 
 ---------
 
@@ -50,9 +52,9 @@
 
 <img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Trello/4.jpg"/>
 
+<br>
 
-
-### ✏️ Modelagem:
+### ✏️ Modelagem:<a name="modelagem"></a>
 
 --------
 
@@ -68,9 +70,9 @@
 
 ![dc](https://github.com/Feruaro/Five-Stars-Bank/blob/main/Documentos/digrama_classes_final.jpg)
 
+<br>
 
-
-### 🖥️ Bando de Dados - MySQL:
+### 🖥️ Bando de Dados - MySQL:<a name="bd"></a>
 
 --------
 
@@ -78,7 +80,7 @@
 
   ​
 
-### 📚 Documentação:
+### 📚 Documentação:<a name="doc"></a>
 
 ------
 
@@ -92,9 +94,9 @@
 
 <img src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Swagger/swagger.jpg"/>
 
+<br>
 
-
-### ☁️ AWS:
+### ☁️ AWS:<a name="aws"></a>
 
 ------
 
@@ -110,7 +112,7 @@
 
   ​
 
-### 🧑‍💻 Projeto:
+### 🧑‍💻 Projeto:<a name="projeto"></a>
 
 --------
 
@@ -126,7 +128,7 @@
 
 
 
-### ⚙️ Endpoints:
+### ⚙️ Endpoints:<a name="endpoints"></a>
 
 -----
 
@@ -219,9 +221,9 @@
 
 <img align="center" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Endpoints/deletar_cliente2.jpg"/>
 
+<br>
 
-
-### 📱 Front end:
+### 📱 Front end:<a name="front"></a>
 
 ---------
 
@@ -237,15 +239,15 @@
 
 <img align="left" height="400em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/Front/33.jpg"/>
 
+<br>
 
-
-### 💻 Tecnologias:
+### 💻 Tecnologias:<a name="tec"></a>
 
 ---
 
 Tecnologias e ferramentas utilizadas para desenvolver o projeto:
 
-
+<br>
 
 * [Trello](https://trello.com/)
 
@@ -279,7 +281,7 @@ Tecnologias e ferramentas utilizadas para desenvolver o projeto:
 
   ​
 
-### 👩‍💻 Squad:
+### 👩‍💻 Squad:<a name="squad"></a>
 
 -------
 
@@ -297,6 +299,8 @@ Tecnologias e ferramentas utilizadas para desenvolver o projeto:
 
 ---------------
 
+<br>
+
 <img align="left" height="150em" width="145em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/squad/Fabio.png"/>
 
 <img align="left" height="150em" width="145em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/squad/fernanda.jpg"/>
@@ -306,3 +310,8 @@ Tecnologias e ferramentas utilizadas para desenvolver o projeto:
 <img align="left" height="150em" width="145em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/squad/Le.jpg"/>
 
 <img align="left" height="150em" width="145em" src="https://github.com/Feruaro/Five-Stars-Bank/blob/main/Imagens/squad/Rodrigo.jpg"/>
+
+<br>
+
+---------------------
+
